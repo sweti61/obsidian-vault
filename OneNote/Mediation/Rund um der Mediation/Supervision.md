@@ -1,0 +1,9 @@
+Supervision ist eine professionelle Beratungs- und Unterstützungsform, die dazu dient, die Qualität der Arbeit von Fachkräften in unterschiedlichen Berufsfeldern zu fördern und zu sichern. Sie bietet einen geschützten Raum für Reflexion, Analyse und Weiterentwicklung von beruflichen Handlungen, Entscheidungen und Beziehungen.
+ 
+Im Kontext der Mediation kann Supervision für Mediatoren oder Mediationsgruppen genutzt werden, um die Mediationsfähigkeiten, die Fallarbeit, die Kommunikation mit den Konfliktparteien und die professionelle Haltung zu reflektieren und zu verbessern. Es geht darum, das eigene Handeln und die Interaktionen mit den Konfliktparteien zu analysieren, Erfahrungen auszutauschen, Feedback zu erhalten und neue Perspektiven und Lösungsansätze zu entwickeln.
+ 
+Supervision kann sowohl in Einzelsitzungen (Einzel- oder Teamsupervision) als auch in Gruppensitzungen (Gruppensupervision) stattfinden. Sie wird von qualifizierten Supervisoren oder Supervisorinnen geleitet, die über eine fundierte Ausbildung und Erfahrung in der Supervision verfügen und die Supervisanden durch den Reflexions- und Entwicklungsprozess begleiten.
+ 
+Die Ziele der Supervision sind vielfältig und können je nach Bedarf und Kontext variieren. Sie können die Förderung der professionellen Kompetenz, die Verbesserung der Arbeitsqualität, die Steigerung der Arbeitszufriedenheit, die Bewältigung von beruflichen Herausforderungen und Konflikten, die Weiterentwicklung der beruflichen Identität und die Stärkung der professionellen Beziehungen umfassen.
+ 
+Insgesamt dient Supervision dazu, die berufliche Entwicklung, die Selbstreflexion und die Qualität der Arbeit von Fachkräften zu unterstützen und zu fördern und trägt somit zur Sicherung und Verbesserung der professionellen Standards und der Qualität der Dienstleistungen bei.

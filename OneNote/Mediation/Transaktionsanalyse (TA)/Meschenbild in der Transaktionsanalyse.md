@@ -1,0 +1,9 @@
+In der Transaktionsanalyse (TA) bezieht sich das Menschenbild auf die grundlegenden Annahmen über die Natur des Menschen und sein Verhalten. Die Transaktionsanalyse betrachtet Menschen als soziale Wesen, die in der Lage sind, sich weiterzuentwickeln und ihr Verhalten zu ändern. Das Menschenbild der Transaktionsanalyse basiert auf drei grundlegenden Konzepten:
+ 
+1. **Strukturmodell der Persönlichkeit**: Die Transaktionsanalyse sieht die Persönlichkeit als aus verschiedenen Teilen bestehend, die als Eltern-, Erwachsenen- und Kind-Zustände bezeichnet werden. Diese Teile repräsentieren verschiedene Aspekte der Persönlichkeit, die jeweils unterschiedliche Verhaltensmuster und Einstellungen aufweisen.
+ 
+2. **Lebensskript**: Ein weiteres wichtiges Konzept der Transaktionsanalyse ist das Lebensskript, das die grundlegende Lebensrichtung oder das Lebensmuster einer Person beschreibt. Das Lebensskript wird oft in der Kindheit entwickelt und kann das Verhalten und die Entscheidungen einer Person im Laufe ihres Lebens beeinflussen.
+ 
+3. **Autonomie**: Die Transaktionsanalyse betont die Fähigkeit des Individuums zur Autonomie und Selbstbestimmung. Autonomie bezieht sich auf die Fähigkeit einer Person, unabhängige Entscheidungen zu treffen, Verantwortung für ihr eigenes Leben zu übernehmen und in Einklang mit ihren eigenen Werten und Bedürfnissen zu handeln.
+ 
+Das Menschenbild in der Transaktionsanalyse betont die Vielfalt und die Entwicklungsmöglichkeiten des Individuums. Es legt Wert darauf, dass Menschen in der Lage sind, ihr Verhalten zu verstehen, zu reflektieren und zu ändern, um ein erfülltes und authentisches Leben zu führen. Die Transaktionsanalyse bietet ein Rahmenwerk zur Analyse und Verbesserung zwischenmenschlicher Beziehungen und zur Förderung persönlicher Wachstumsprozesse.

@@ -1,0 +1,3 @@
+Ziel: _Zur Selbstreflexion anregen._
+ 
+Wenn Sie Ihrem Gegenüber zurückspiegeln, was Sie verstanden und beobachtet haben, bieten Sie ihm eine Plattform zur Selbstreflexion. Auch hiermit können Sie erreichen, dass Ihr Gegenüber sein Verhalten und seine Gefühle mit größerer Distanz betrachten kann. Sie können Ihrem Gesprächspartner auch eine direkte, ehrliche Rückmeldung darüber geben, wie die Aussagen und das Verhalten des anderen auf Sie wirken (Konfrontieren). So fordern Sie ihn ebenfalls zur Auseinandersetzung mit sich selbst heraus und lösen im Idealfall einen Erkenntnisprozess aus. Hiermit können Sie beispielsweise Widersprüche in Einstellung und Verhalten aufdecken.

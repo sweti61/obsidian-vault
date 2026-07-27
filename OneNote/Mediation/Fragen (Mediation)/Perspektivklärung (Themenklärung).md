@@ -1,0 +1,9 @@
+
+
+|   |   |
+|---|---|
+|Herstellung einer positiven Gesprächsbereitschaft|Sind Sie bereit, offen und ehrlich über Ihre Anliegen, Bedürfnisse und Interessen zu sprechen?  <br>   <br>Gibt es Regeln oder Vereinbarungen, die wir treffen können, um ein respektvolles und konstruktives Gespräch zu fördern?  <br>_Wie können wir sicherstellen, dass alle Parteien die Möglichkeit haben, ihre Sichtweisen und Anliegen zu äußern und gehört zu werden?_|
+|Ermittlung der einzelnen Konfliktthemen (Konflikt Issues)|_Was sind aus Ihrer Sicht die Hauptthemen oder Anliegen, die in diesem Konflikt eine Rolle spielen?_  <br>Können Sie die spezifischen Punkte oder Situationen nennen, die zu Spannungen oder Konflikten geführt haben?  <br>Gibt es weitere Themen oder Anliegen, die für Sie wichtig sind und die im Mediationsprozess berücksichtigt werden sollten?|
+|Ergründung der Bedürfnisse und Interessen hinter den Positionen der Konfliktparteien|Was sind die Bedürfnisse oder Interessen, die hinter Ihrer Position stehen?  <br>_Was hoffen Sie, durch die Lösung dieses Konflikts zu erreichen?_  <br>Welche Werte oder Prinzipien sind Ihnen in diesem Konflikt besonders wichtig?  <br>_Gibt es Bedenken oder Ängste, die Sie bezüglich des Konflikts oder seiner Lösung haben?_|
+|Motivation der Parteien, alle relevanten Themen des Konflikts mitzuteilen|_Gibt es Themen oder Anliegen, die Sie bisher noch nicht angesprochen haben, aber die für Sie wichtig sind?_  <br>Was würden Sie sagen, wenn ich Sie ermutige, alle relevanten Themen oder Anliegen, die Sie im Zusammenhang mit diesem Konflikt haben, offen und ehrlich mitzuteilen?  <br>_Gibt es Bedenken oder Ängste, die Sie daran hindern könnten, bestimmte Themen oder Anliegen anzusprechen?_|
+ > Aus <[https://d.docs.live.net/95e4d36e04ea876e/Mediation/Fragen.docx](https://d.docs.live.net/95e4d36e04ea876e/Mediation/Fragen.docx)>

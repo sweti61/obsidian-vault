@@ -1,0 +1,1 @@
+![Lösen Transformatives Lernen Unterschiedliche Prozess klären Perspektiven verstehen Fragekompass Ressourcen und Bedürfnisse erkennen Vergangenheit Gegenwart Konflikt und Sachverhalt verstehen Zukunft ](Exported%20image%2020250404191415-0.jpeg)

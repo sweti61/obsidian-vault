@@ -1,0 +1,12 @@
+- Ist ganzheitlich
+- persönlichkeitsstärken
+- fokussiert Stärken und Resspourcen
+- sieht den individuellen Sicht des Klientes
+- bewerten (den Klienten) nicht
+- macht Lösungen greifbar und entwickelt sie mit den Klienten
+- entwickelt mit Klienten neue Perspektiven und Lösungswegen 
+- ist ganzheitlich und Lösungsorienrt
+- erfaßt Kontexte mit ihren Wechselwirkungen
+- fokussiert auf Ressourcen und Kommunikation
+- traut Menschen große Potential an Selbstorganisation zu
+- respektiert der Sichtweise des Klientes als ebenbürtig.

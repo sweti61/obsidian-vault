@@ -1,0 +1,11 @@
+In der Vermittlungsphase der Mediation vermittelt der Mediator zwischen den Konfliktparteien, um Kommunikationshindernisse zu überwinden, Missverständnisse zu klären und die Suche nach Lösungen zu erleichtern. Hier sind einige Aspekte dessen, was und wie in dieser Phase vermittelt wird:
+ 
+1. **Kommunikation**: Der Mediator fördert einen offenen und respektvollen Dialog zwischen den Parteien. Er hilft ihnen dabei, ihre Standpunkte auszutauschen, zuzuhören und die Perspektive der anderen Partei zu verstehen. Durch gezielte Fragen und aktives Zuhören unterstützt der Mediator die Kommunikation und trägt dazu bei, dass beide Parteien ihre Bedürfnisse und Interessen klar kommunizieren können.
+ 
+2. **Verständnis**: Der Mediator hilft den Parteien, ein besseres Verständnis füreinander und für den Konflikt zu entwickeln. Er stellt sicher, dass Missverständnisse geklärt werden und dass beide Seiten die Motivationen und Interessen der anderen verstehen. Dies trägt dazu bei, Vorurteile abzubauen und die Grundlage für eine konstruktive Zusammenarbeit zu schaffen.
+ 
+3. **Lösungssuche**: Der Mediator unterstützt die Parteien dabei, gemeinsam nach Lösungen für den Konflikt zu suchen. Er ermutigt sie, kreative Ideen zu entwickeln und alternative Ansätze zu betrachten, um ihren Bedürfnissen gerecht zu werden. Der Mediator kann Techniken wie Brainstorming oder die Suche nach gemeinsamen Interessen anwenden, um die Lösungsfindung zu erleichtern.
+ 
+4. **Neutrale Unterstützung**: Während des gesamten Prozesses bleibt der Mediator neutral und unparteiisch. Er gibt keine eigenen Meinungen oder Empfehlungen ab, sondern unterstützt die Parteien dabei, ihre eigenen Lösungen zu entwickeln. Der Mediator kann bei Bedarf strukturelle Unterstützung bieten, um den Prozess voranzutreiben, aber letztendlich liegt die Verantwortung für die Vereinbarung bei den Konfliktparteien.
+ 
+Insgesamt geht es in der Vermittlungsphase darum, eine unterstützende Umgebung zu schaffen, in der die Parteien ihre Konflikte konstruktiv angehen können. Durch effektive Vermittlung können Kommunikationsbarrieren überwunden und gemeinsame Lösungen gefunden werden, die den Bedürfnissen und Interessen aller gerecht werden.

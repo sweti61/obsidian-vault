@@ -1,0 +1,7 @@
+In der Mediation beziehen sich "Konflikt-Issues" auf die spezifischen Themen oder Probleme, die Gegenstand des Konflikts zwischen den Parteien sind. Diese Issues umfassen typischerweise die verschiedenen Anliegen, Bedürfnisse, Interessen oder Standpunkte, die zu Konflikten geführt haben und die während des Mediationsprozesses angegangen werden müssen.
+ 
+Die Sammlung der Konflikt-Issues findet in der Vorbereitungsphase der Mediation statt. In dieser Phase bereitet sich der Mediator darauf vor, die Mediationssitzung zu leiten, indem er Informationen über den Konflikt und die beteiligten Parteien sammelt. Dies beinhaltet auch die Identifizierung der wichtigsten Konflikt-Issues, die zwischen den Parteien bestehen.
+ 
+Während der Vorbereitungsphase führt der Mediator Interviews mit den Parteien durch, um ihre Perspektiven auf den Konflikt zu verstehen und die wesentlichen Probleme zu ermitteln. Dies kann auch die Bewertung von Dokumenten, Vereinbarungen oder anderen relevanten Informationen umfassen, die zur Klärung des Konflikts beitragen könnten.
+ 
+Durch die Sammlung der Konflikt-Issues in der Vorbereitungsphase erhält der Mediator einen Überblick über den Konflikt und kann sich gezielt auf die Themen konzentrieren, die während der Mediation adressiert werden müssen. Dies ermöglicht es ihm, den Mediationsprozess effektiv zu gestalten und den Parteien dabei zu helfen, gemeinsame Lösungen für ihre Konflikte zu finden.

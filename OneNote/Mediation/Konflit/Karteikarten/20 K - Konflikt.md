@@ -1,0 +1,3 @@
+![Exported image](Exported%20image%2020250404191543-0.png) ![Exported image](Exported%20image%2020250404191547-1.png) ![Exported image](Exported%20image%2020250404191548-2.png) ![Exported image](Exported%20image%2020250404191549-3.png) ![Exported image](Exported%20image%2020250404191549-4.png) ![Exported image](Exported%20image%2020250404191550-5.png) ![Exported image](Exported%20image%2020250404191551-6.png) ![Exported image](Exported%20image%2020250404191552-7.png)
+
+![[20 K - Konflikt.pdf]]

@@ -1,0 +1,13 @@
+Die transformative Mediation (TM) ist ein Ansatz zur Konfliktlösung, der darauf abzielt, nicht nur konkrete Vereinbarungen zwischen den Parteien zu erzielen, sondern auch die Beziehungsdynamik und die persönlichen Empfindungen der Beteiligten zu verändern. Hier sind die Grundzüge der transformative Mediation:
+ 
+1. **Selbstbestimmung und Empowerment**: Die transformative Mediation legt großen Wert darauf, dass die Parteien die Möglichkeit haben, ihre eigenen Entscheidungen zu treffen und ihre eigenen Interessen zu vertreten. Sie sollen gestärkt werden, um aktiv an der Konfliktlösung teilzunehmen und ihre Zukunft selbst zu gestalten.
+ 
+2. **Anerkennung und Respekt**: Ein wesentlicher Aspekt der transformative Mediation ist die Wertschätzung und der Respekt für die individuellen Perspektiven und Erfahrungen der Beteiligten. Der Mediator ermutigt die Parteien dazu, einander zuzuhören, sich gegenseitig anzuerkennen und empathisch miteinander umzugehen.
+ 
+3. **Eskalation und Deeskalation**: Die transformative Mediation zielt darauf ab, die Konfliktdynamik zu verändern, indem sie dazu beiträgt, eine Eskalation des Konflikts zu verhindern und stattdessen zu einer Deeskalation beizutragen. Dies geschieht durch den Aufbau von Vertrauen, die Förderung offener Kommunikation und die Ermutigung zur Zusammenarbeit.
+ 
+4. **Selbstreflexion und Bewusstsein**: Die Parteien werden ermutigt, ihre eigenen Perspektiven und Verhaltensweisen zu reflektieren und ein tieferes Bewusstsein für sich selbst und für die Interaktion mit anderen zu entwickeln. Dies kann dazu beitragen, neue Einsichten zu gewinnen und positive Veränderungen in der Beziehungsdynamik herbeizuführen.
+ 
+5. **Transformation und Wachstum**: Ein Hauptziel der transformative Mediation ist es, positive Veränderungen in den zwischenmenschlichen Beziehungen der Beteiligten herbeizuführen und Möglichkeiten für persönliches und gemeinschaftliches Wachstum zu schaffen. Dies geschieht durch die Förderung von Verständnis, Empathie und Kooperation zwischen den Parteien.
+ 
+Insgesamt zielt die transformative Mediation darauf ab, nicht nur oberflächliche Konfliktlösungen zu erzielen, sondern auch tiefgreifende Veränderungen in den zwischenmenschlichen Beziehungen und im Selbstverständnis der Beteiligten herbeizuführen. Sie fördert die Autonomie, das Empowerment und das Wachstum der Parteien, während sie gleichzeitig dazu beiträgt, die Konfliktdynamik zu verändern und langfristige Lösungen zu schaffen.

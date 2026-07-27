@@ -1,0 +1,2 @@
+Bedeutet, dass Sie tief in die Erfahrungswirklichkeit Ihrer Mediationsparteien eintauchen und das beschreibend zum Ausdruck bringen, was Sie dort spühren und wahrnehmen.  
+In manchen Mediationen wird das Aktive Zuhören als Standardwerkzeug bei der Sachverhaltsklärung in eine frühere Phase der Mediation empfohlen.

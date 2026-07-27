@@ -1,0 +1,1 @@
+Bitte lies zuerst die beiden angehängten 00-Dateien. Sie enthalten meine Identität und meine Schreibrichtlinien. Schreibe anschließend auf Basis der restlichen Notizen einen Blogartikel, der diese Richtlinien zu 100 % befolgt.

@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"a02224b668192fbf","x":-204,"y":-1037,"width":400,"height":400,"type":"file","file":"Toolkits und Lernblatter/0. Lernblatt - Einführung in die Systemtheorie nach Niklas Luhmann.md"},
+		{"id":"b960dcd62d25a7ba","type":"file","file":"Toolkits und Lernblatter/2. Lernblatt - Organisation als System.md","x":381,"y":640,"width":400,"height":400},
+		{"id":"52057a6ea2d11093","type":"file","file":"Toolkits und Lernblatter/4. Lernblatt - Der Mensch und das psychische System (systemtheoretisch betrachtet).md","x":-612,"y":73,"width":400,"height":400},
+		{"id":"a057393f55db6961","type":"file","file":"Toolkits und Lernblatter/3. Lernblatt - Das psychische System.md","x":-620,"y":-420,"width":400,"height":400},
+		{"id":"4a51053c87224716","type":"file","file":"Toolkits und Lernblatter/2. Lernblatt - Organisation als System.md","x":-55,"y":-408,"width":400,"height":400},
+		{"id":"74e75d3420267e77","type":"file","file":"Toolkits und Lernblatter/6. Lernblatt - Der strukturierte Beobachter im Coaching und in der Beratung.md","x":-616,"y":641,"width":400,"height":400},
+		{"id":"f7fb33907b2cad21","type":"file","file":"Toolkits und Lernblatter/5. Lernblatt - Beobachten mit Methode.md","x":-55,"y":641,"width":400,"height":400}
+	],
+	"edges":[]
+}

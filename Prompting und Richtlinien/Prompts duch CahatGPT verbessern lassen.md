@@ -1,0 +1,1 @@
+Verbessere diese Prompt in struktur und Inhalt.

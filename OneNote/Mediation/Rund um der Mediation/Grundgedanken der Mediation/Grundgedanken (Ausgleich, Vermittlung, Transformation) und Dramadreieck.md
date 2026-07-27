@@ -1,0 +1,15 @@
+Es ist möglich, eine Verbindung zwischen den Grundgedanken der Mediation (Ausgleich, Vermittlung, Transformation) und den drei Rollen des Dramadreiecks (Retter, Opfer, Verfolger) herzustellen, obwohl sie aus verschiedenen theoretischen Ansätzen stammen und unterschiedliche Konzepte darstellen. Hier ist eine mögliche Herstellung des Zusammenhangs:
+ 
+1. **Ausgleich (Balance)**:  
+- In der Mediation strebt man nach einem Ausgleich der Interessen und Bedürfnisse aller beteiligten Parteien. Dies bedeutet, dass keine Partei bevorzugt oder benachteiligt wird und dass Lösungen gefunden werden, die für alle akzeptabel sind.  
+- Im Dramadreieck kann der Retter versuchen, ein Ungleichgewicht zu korrigieren, indem er anderen hilft oder rettet. Der Verfolger hingegen kann versuchen, seine Macht über andere auszuüben und sie zu kontrollieren. Durch die Mediation wird versucht, diese Muster des Ungleichgewichts zu erkennen und zu korrigieren, indem den Parteien geholfen wird, auf gleicher Augenhöhe zu interagieren und konstruktive Lösungen zu entwickeln.
+ 
+2. **Vermittlung (Mediation)**:  
+- Die Vermittlung in der Mediation bezieht sich darauf, zwischen den Parteien zu vermitteln und sie dabei zu unterstützen, ihre Konflikte auf konstruktive Weise zu lösen. Der Mediator fungiert als neutraler Vermittler, der den Dialog fördert und dabei hilft, gemeinsame Lösungen zu finden.  
+- Im Dramadreieck kann der Retter versuchen, zwischen dem Opfer und dem Verfolger zu vermitteln, indem er versucht, den Konflikt zu lösen oder zu beruhigen. Durch eine effektive Mediation können die Rollen des Opfers, des Retters und des Verfolgers erkannt und in eine konstruktive Richtung gelenkt werden, um eine nachhaltige Lösung zu finden.
+ 
+3. **Transformation (Veränderung)**:  
+- Die Transformation in der Mediation bezieht sich auf den Prozess, durch den Konflikte in konstruktive und nachhaltige Lösungen umgewandelt werden. Dies kann durch eine Veränderung der Perspektiven, Einstellungen oder Verhaltensweisen der Parteien erreicht werden.  
+- Im Dramadreieck kann die Transformation stattfinden, indem die Parteien ihre Rollen des Opfers, des Retters und des Verfolgers erkennen und annehmen, und sich stattdessen auf eine konstruktive Interaktion konzentrieren, die auf Kooperation und gegenseitigem Respekt basiert. Durch die Mediation wird versucht, eine solche Transformation zu erleichtern, indem den Parteien geholfen wird, ihre Kommunikation und Interaktion zu verbessern und neue Wege zur Konfliktlösung zu finden.
+ 
+Obwohl eine Verbindung zwischen den Grundgedanken der Mediation und den Rollen des Dramadreiecks hergestellt werden kann, ist zu beachten, dass die Transaktionsanalyse und die Mediation unterschiedliche theoretische Ansätze sind und unterschiedliche Konzepte darstellen. Während die Mediation auf die Konfliktlösung und die Förderung von Kooperation und Verständnis abzielt, analysiert die Transaktionsanalyse die zwischenmenschlichen Beziehungen und Verhaltensmuster. Daher kann eine direkte Verbindung zwischen den beiden nicht immer möglich sein, ohne die Unterschiede in ihren theoretischen Grundlagen zu berücksichtigen.

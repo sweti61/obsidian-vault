@@ -1,0 +1,17 @@
+# Persönlicher Obsidian-Arbeitszustand
+.obsidian/
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Papierkorb und temporäre Dateien
+.trash/
+*.tmp
+~$*
+
+# Optional: besonders vertrauliche Ordner
+# Privat/
+# Mediation-Vertraulich/
+# Medizin/
