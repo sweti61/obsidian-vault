@@ -7,12 +7,12 @@ Mocambo Gran Bar Selezione 
 	Lucaffe Kaffee Espresso - Miscela Bar
 	
 
-Lucaffe Kaffee Espresso - Mamma Lucia 
-Hausbrand Nonnetti 
-Du Martella Maximum Class
+Lucaffe Kaffee Espresso - Mamma Lucia   
+Hausbrand Nonnetti     
+Du Martella Maximum Class   
 Omkafe Extrabon 
-Mirella:
-!!! - Espresso Harrar Longberry
-? - Espresso Napoli Arabica
-!- Espresso Capim Branco
-!! - Espresso Papua New Guinea
+## Mirella:
+!!! - Espresso Harrar Longberry   
+? - Espresso Napoli Arabica   
+!- Espresso Capim Branco   
+!! - Espresso Papua New Guinea   
