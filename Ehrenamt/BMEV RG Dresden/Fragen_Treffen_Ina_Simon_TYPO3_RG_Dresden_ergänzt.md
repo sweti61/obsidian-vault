@@ -325,45 +325,152 @@ Nicht heute entscheiden, aber als Themenliste bestätigen:
 ## 12. Entscheidungen aus dem Gespräch
 
 ### Zielgruppe
-- 
+- Eine eindeutige Hauptzielgruppe wurde im Gespräch nicht festgelegt.
+- Die Webseite soll die Regionalgruppe als aktive Gruppe sichtbar machen und ihre Veranstaltungen hervorheben.
+- Als mögliche Zielgruppen wurden insbesondere Mitglieder der Regionalgruppe, BM-Mitglieder, an Mediation Interessierte sowie Personen genannt, die nach Mediation suchen.
+- Die genaue Positionierung der Webseite bleibt offen und muss bei der Texterstellung pragmatisch mitgedacht werden.
+- Ein belastbares gemeinsames Selbstverständnis der Regionalgruppe liegt noch nicht vor.
 
 ### Hauptziel der Webseite
-- 
+- Die Startseite soll vor allem zeigen, dass es sich um eine aktive Regionalgruppe handelt.
+- Veranstaltungen und das gemeinsame Gruppenleben sollen stärker sichtbar werden.
+- Veraltete Inhalte sollen möglichst schnell ersetzt werden.
+- Die bestehende Struktur und das Layout bleiben in Phase 1 erhalten.
+- Allgemeine Erklärungen zur Mediation sollen kurz bleiben und nicht den Hauptteil der Webseite bestimmen.
+- Die Webseite soll stärker die Regionalgruppe und ihre Tätigkeitsfelder abbilden.
 
 ### Startseitenteaser
-- 
+- Der bisherige lange Einführungstext soll deutlich gekürzt werden.
+- Sweti erstellt einen neuen Entwurf.
+- Der Teaser soll knapp beschreiben:
+  - wer die Regionalgruppe ist,
+  - was sie macht,
+  - dass regelmäßig Veranstaltungen stattfinden,
+  - und wie Interessierte Kontakt aufnehmen können.
+- Für den oberen Startseitenbereich soll ein passendes eigenes Foto ausgewählt werden.
+- Die Gruppe und ihre Veranstaltungen sollen im Mittelpunkt stehen.
 
 ### Leitung und Kontakt
-- 
+- Ina Simon ist Sprecherin der Regionalgruppe.
+- Katja ist stellvertretende Sprecherin.
+- Sweti übernimmt die Funktion des Webmasters.
+- Für diese Rollen sollen BM-E-Mail-Adressen eingerichtet werden.
+- Eine vierte Rolle für die Kasse ist vorgesehen, aber noch nicht besetzt.
+- Die zentrale Kontaktadresse bleibt weiterhin relevant.
+- Die bisherige Nennung von Katrin Hoogestraat ist veraltet und soll entfernt werden.
+- Die genaue öffentliche Darstellung der Rollen und E-Mail-Adressen ist noch festzulegen.
+- Die Zahl der Mitglieder soll nicht genannt werden, da sie nicht verlässlich bestimmt werden kann und nicht alle Mitglieder aktiv sind.
+- Ein Link zu den Dresdner BM-Mitgliedsprofilen soll geprüft und eingebunden werden, allerdings nicht mit der Bezeichnung „alle Mitglieder der Regionalgruppe“.
 
 ### Öffentliche Veranstaltungen
-- 
+- Die Seite „Aktuelles“ soll mit dem Veranstaltungskalender gefüllt werden.
+- Die Termine sollen voraussichtlich als Tabelle dargestellt werden.
+- Zusätzlich soll die Kalenderdatei zum Download verlinkt werden.
+- Ina schickt eine aktualisierte Fassung des Veranstaltungskalenders beziehungsweise das Excel-Sheet.
+- Auffällige und möglicherweise fehlerhafte Termine müssen vorher geprüft werden.
+- Noch offen ist:
+  - welche Termine öffentlich sind,
+  - ob Jour-fixe-Termine für Gäste zugänglich sind,
+  - und wie die Anmeldung erfolgt.
 
 ### Tag der Mediation
-- 
+- Der „Tag der Mediation“ bleibt eine dauerhaft wichtige und prominente Rubrik.
+- Für die Jahre 2025 und 2026 sollen jeweils kurze Rückblicke veröffentlicht werden.
+- Pro Jahr sollen nur wenige Bilder und ein kurzer Text erscheinen.
+- Ina stellt Texte und Bildmaterial zur Verfügung.
+- Die Darstellung soll knapp bleiben und die geleistete Arbeit sichtbar machen.
+- Für 2027 gibt es bereits erste Planungen, unter anderem erneut eine Business-Reportage.
+- Frühere Jahre sollen nicht umfassend archiviert werden.
 
 ### Bilder
-- 
+- Eigene Fotos der Regionalgruppe sollen gegenüber Stockbildern bevorzugt werden.
+- Sweti erhält freie Hand bei der Bildauswahl und erstellt Vorschläge.
+- Die Bilder vom Tag der Mediation und aus der Business-Reportage stehen grundsätzlich zur Verfügung.
+- Die Fotos wurden für die Webseite erstellt und dürfen nach aktuellem Stand verwendet werden.
+- Die genaue Urheberangabe ist noch nicht abschließend geklärt.
+- Bisher wurde „Foto: getshot.de“ verwendet.
+- Ina wartet auf eine Rückmeldung der Fotografin und leitet die verbindliche Urheberangabe weiter.
+- Das große runde Bild auf der Startseite darf voraussichtlich ersetzt werden.
+- Sweti prüft, welche Fotos sich technisch und inhaltlich für die jeweiligen Flächen eignen.
+- Bei der Bildauswahl soll auf eine einheitliche Bildsprache geachtet werden.
+- Eigene Gemälde oder Grafiken können grundsätzlich verwendet werden, sollen aber nicht ungeprüft mit Reportagefotos vermischt werden.
 
 ### Sprachregelung
-- 
+- Eine verbindliche Gender-Schreibweise wurde nicht entschieden.
+- Die Texte sollen kurz, verständlich und nicht überladen sein.
+- Lange Grundlagenerklärungen zur Mediation sollen vermieden werden.
+- Der bestehende Text über die Regionalgruppe kann als Grundlage dienen, muss aber überarbeitet werden.
+- Aussagen zu Qualität, Tätigkeitsfeldern und Schwerpunkten sollen sachlich und vorsichtig formuliert werden.
+- Eine konkrete Mitgliederzahl soll entfallen.
+- Die Seite „Mediation“ soll nicht nur erklären, was Mediation ist, sondern auch mögliche Arbeitsfelder und Schwerpunkte der Regionalgruppe sichtbar machen.
+- Ob Familienmediation, Pflege, Elternberatung oder weitere Themen als Gruppenschwerpunkte genannt werden können, muss noch geklärt werden.
 
 ### Freigabeprozess
-- 
+- Ein formaler oder technischer Freigabeprozess in TYPO3 existiert nicht.
+- Änderungen werden beim Speichern unmittelbar veröffentlicht.
+- Ina und Katja geben Sweti für die redaktionelle Gestaltung weitgehend freie Hand.
+- Sweti erstellt die Entwürfe für Texte und Bilder selbstständig.
+- Wichtige Entwürfe sollen dennoch möglichst vor der Veröffentlichung mit Ina und gegebenenfalls in der Regionalgruppe besprochen werden.
+- Als nächster Abstimmungstermin wurde der Online-Jour-fixe am 13.08.2026 genannt.
+- Praktischer Ablauf:
+  1. Sweti erstellt Entwürfe für Text und Bild.
+  2. Ina erhält die Entwürfe zur Durchsicht.
+  3. Geeignete Inhalte werden nach Möglichkeit in der Gruppe besprochen.
+  4. Nach einer informellen Zustimmung pflegt Sweti sie in TYPO3 ein.
+  5. Nach dem Speichern erfolgt eine direkte Sichtkontrolle.
+- Die redaktionelle Verantwortung liegt faktisch weitgehend bei Sweti.
+- Bei strategischen Aussagen zum Selbstverständnis oder zu Gruppenschwerpunkten sollte keine alleinige Festlegung ohne Abstimmung erfolgen.
 
 ### Prioritäten bis Oktober
-- 
+- Phase 1 bleibt auf die Überarbeitung der bestehenden Inhalte beschränkt.
+- Keine größere Veränderung des Layouts.
+- Priorität haben:
+  1. kurzer neuer Hero-Text,
+  2. Auswahl eines passenden Startseitenbildes,
+  3. Befüllung von „Aktuelles“ mit dem Veranstaltungskalender,
+  4. Überarbeitung von „Tag der Mediation“ mit Rückblicken 2025 und 2026,
+  5. Überarbeitung der Seite „Die Regionalgruppe“,
+  6. Überarbeitung der Seite „Mediation“,
+  7. Aktualisierung der Kontaktseite.
+- Die Inhalte sollen möglichst vor Swetis Urlaub ab 01.09.2026 weitgehend vorbereitet sein.
+- Nach der TYPO3-Schulung am 06.10.2026 kann Phase 2 mit Layout- und Detailverbesserungen beginnen.
+- Mobile Darstellung und technische Feinheiten werden nach der inhaltlichen Überarbeitung geprüft.
+
+### Noch offene Punkte
+- Hauptzielgruppe der Webseite.
+- Verbindliches Selbstverständnis der Regionalgruppe.
+- Öffentliche oder interne Termine.
+- Teilnahmebedingungen und Anmeldung.
+- Verbindliche Urheberangabe der Fotos.
+- Einheitliche Gender- und Sprachregelung.
+- Welche fachlichen Schwerpunkte tatsächlich die Regionalgruppe als Ganzes vertreten.
+- Ob und wie die Rollen der Leitung, Stellvertretung und des Webmasters öffentlich dargestellt werden.
+- Ergebnis und Fortführung des geplanten OE-Prozesses „Wer sind wir? Wofür wollen wir stehen?“.
 
 ---
 
 ## 13. Nächste Schritte
 
-- [ ] Gesprächsergebnisse dokumentieren
-- [ ] offene Punkte an weitere Mitglieder der Regionalgruppe geben
-- [ ] Veranstaltungskalender korrigieren
-- [ ] erste Textentwürfe erstellen
-- [ ] Bildmaterial sichten
-- [ ] Bildrechte dokumentieren
-- [ ] Freigabe durch Ina einholen
+- [x] Gesprächsergebnisse dokumentieren
+- [ ] aktualisierten Veranstaltungskalender und Excel-Datei von Ina erhalten
+- [ ] fehlerhafte oder doppelte Termine im Veranstaltungskalender klären
+- [ ] Texte und Bilder zum Tag der Mediation 2025 und 2026 von Ina erhalten
+- [ ] Flyer, Broschüren und vorhandene Dateien von Ina erhalten
+- [ ] verbindliche Urheberangabe der Fotografin abwarten
+- [ ] Bildmaterial der Business-Reportage sichten
+- [ ] geeignetes Hero-Bild und Bilder für die vier Startseitenbereiche auswählen
+- [ ] neuen kurzen Startseitenteaser entwerfen
+- [ ] Text „Die Regionalgruppe“ überarbeiten
+- [ ] Mitgliederzahl aus dem Text entfernen
+- [ ] Link zu den Dresdner BM-Mitgliedsprofilen prüfen
+- [ ] Seite „Mediation“ konzeptionell überarbeiten
+- [ ] mögliche Gruppenschwerpunkte von persönlichen Angeboten einzelner Mitglieder abgrenzen
+- [ ] Veranstaltungskalender als Web-Tabelle vorbereiten
+- [ ] Download-Link zur Kalenderdatei vorbereiten
+- [ ] Entwürfe für Text und Bild für den Jour-fixe am 13.08.2026 zusammenstellen
+- [ ] Entwürfe mit Ina und möglichst mit der Regionalgruppe besprechen
+- [ ] informelle Zustimmung zu den Endfassungen dokumentieren
 - [ ] Inhalte in TYPO3 einpflegen
+- [ ] nach jeder Veröffentlichung direkte Sichtkontrolle durchführen
 - [ ] mobile und Desktop-Darstellung kontrollieren
+- [ ] Themen für Phase 2 nach der TYPO3-Schulung am 06.10.2026 sammeln
