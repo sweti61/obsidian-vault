@@ -3,7 +3,6 @@
 - summary (Hero-Text, bitte SEO optimieren) 👉 wird in Listenansichten verwendet (nicht immer im Hero): - oft nicht sichtbar; - aber gut für SEO / Snippets
 - categories (HUGO-intern) 
 - tags (HUGO-intern) 
-- keywords (bitte SEO optimieren) 
 - slug  (bitte SEO optimieren)
 - url: /post/[slug]/ (bitte SEO optimieren)
 - date:  
