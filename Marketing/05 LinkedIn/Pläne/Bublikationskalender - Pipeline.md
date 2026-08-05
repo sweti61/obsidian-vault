@@ -4,6 +4,7 @@
 - **03.08.** - Doc-Post 5 "Vier Dynamiken IT-Programme"
 - **06.08.** - Doc-Post "Mediation oder Klage?"
 - **11.08.** - Text-Post "Sie analysieren den Konflikt..."
+- 12.08. - Video-Spoiler - Die Geschwister sind sich uneinig - und keiner traut sich mehr zu reden
 - **18.08.** - Doc-Post 6 "Brückenpost Familie/Beruf"
 - **19.08.** - Harvard-Post 1 "Menschen und Probleme trennen"
 - **26.08.** - Harvard-Post 2 "Interessen statt Positionen"
