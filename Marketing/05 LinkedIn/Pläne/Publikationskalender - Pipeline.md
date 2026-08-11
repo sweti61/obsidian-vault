@@ -20,3 +20,11 @@
 
 
 Neu: Anti-Sales-Funell
+- **07.09. (Mo)** - Beitrag 1 "Der Funnel, den niemand sieht"
+- **14.09. (Mo)** - Beitrag 2 "40 LinkedIn-Beiträge. Keine Anfrage."
+- **21.09. (Mo)** - Beitrag 3 "Mediation kann keinen Bedarf erzeugen"
+- **28.09. (Mo)** - Beitrag 4 "Der Referatsleiter ruft nicht den Mediator an"
+- **05.10. (Mo)** - Beitrag 5 "LinkedIn verkauft vielleicht nicht. Es legitimiert."
+- **12.10. (Mo)** - Beitrag 6 "Vielleicht sprechen wir mit den Falschen"
+- **19.10. (Mo)** - Beitrag 7 "Wo der Funnel doch funktioniert"
+- **26.10. (Mo)** - Beitrag 8 "Die eigentliche Akquisefrage"
