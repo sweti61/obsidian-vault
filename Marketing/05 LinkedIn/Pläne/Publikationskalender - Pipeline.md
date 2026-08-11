@@ -7,6 +7,7 @@
 - 12.08. - Video-Spoiler - Die Geschwister sind sich uneinig - und keiner traut sich mehr zu reden
 - **18.08.** - Doc-Post 6 "Brückenpost Familie/Beruf"
 - **19.08.** - Harvard-Post 1 "Menschen und Probleme trennen"
+- **25.08**. - Video-Post "Eine Hofübergabe"
 - **26.08.** - Harvard-Post 2 "Interessen statt Positionen"
 - **01.09.** - Emotionaler Post 1 "Wendepunkt"
 - **02.09.** - Harvard-Post 3 "Emotionen und Grundbedürfnisse"
