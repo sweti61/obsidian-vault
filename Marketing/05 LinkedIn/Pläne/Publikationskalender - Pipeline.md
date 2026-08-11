@@ -15,13 +15,13 @@
 - **07.09. (Mo)** - Beitrag 1 "Der Funnel, den niemand sieht"
 - **08.09.** - Emotionaler Post 3 "Schwierigste Frage"
 - **10.09.** - Emotionaler Post 4 "Nachhall"
+- **14.09. (Mo)** - Beitrag 2 "40 LinkedIn-Beiträge. Keine Anfrage."
 - **15.09.** - Emotionaler Post 5 "Schweigen"
 - **17.09.** - Emotionaler Post 6 "Scheitern"
 - **22.09.** - Emotionaler Post 7 "35 Verwaltungsjahre"
 
 
 Neu: Anti-Sales-Funnel
-- **14.09. (Mo)** - Beitrag 2 "40 LinkedIn-Beiträge. Keine Anfrage."
 - **21.09. (Mo)** - Beitrag 3 "Mediation kann keinen Bedarf erzeugen"
 - **28.09. (Mo)** - Beitrag 4 "Der Referatsleiter ruft nicht den Mediator an"
 - **05.10. (Mo)** - Beitrag 5 "LinkedIn verkauft vielleicht nicht. Es legitimiert."
