@@ -12,6 +12,7 @@
 - **01.09.** - Emotionaler Post 1 "Wendepunkt"
 - **02.09.** - Harvard-Post 3 "Emotionen und Grundbedürfnisse"
 - **03.09.** - Emotionaler Post 2 "Innere Wandlung"
+- **07.09. (Mo)** - Beitrag 1 "Der Funnel, den niemand sieht"
 - **08.09.** - Emotionaler Post 3 "Schwierigste Frage"
 - **10.09.** - Emotionaler Post 4 "Nachhall"
 - **15.09.** - Emotionaler Post 5 "Schweigen"
@@ -19,8 +20,7 @@
 - **22.09.** - Emotionaler Post 7 "35 Verwaltungsjahre"
 
 
-Neu: Anti-Sales-Funell
-- **07.09. (Mo)** - Beitrag 1 "Der Funnel, den niemand sieht"
+Neu: Anti-Sales-Funnel
 - **14.09. (Mo)** - Beitrag 2 "40 LinkedIn-Beiträge. Keine Anfrage."
 - **21.09. (Mo)** - Beitrag 3 "Mediation kann keinen Bedarf erzeugen"
 - **28.09. (Mo)** - Beitrag 4 "Der Referatsleiter ruft nicht den Mediator an"
