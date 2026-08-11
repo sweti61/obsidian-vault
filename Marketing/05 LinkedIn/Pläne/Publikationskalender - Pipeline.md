@@ -17,3 +17,6 @@
 - **15.09.** - Emotionaler Post 5 "Schweigen"
 - **17.09.** - Emotionaler Post 6 "Scheitern"
 - **22.09.** - Emotionaler Post 7 "35 Verwaltungsjahre"
+
+
+Neu: Anti-Sales-Funell
