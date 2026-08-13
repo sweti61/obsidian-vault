@@ -5,6 +5,7 @@
 - **06.08.** - Doc-Post "Mediation oder Klage?"
 - **11.08.** - Text-Post "Sie analysieren den Konflikt..."
 - **12.08**. - Video-Spoiler - Die Geschwister sind sich uneinig - und keiner traut sich mehr zu reden
+- **13.08.** - Der Moment, wo ich merke, dass die Mediation gelingt (Spoiler zu Blogartikel)
 - **18.08.** - Doc-Post 6 "Brückenpost Familie/Beruf"
 - **19.08.** - Harvard-Post 1 "Menschen und Probleme trennen"
 - **25.08**. - Video-Post "Eine Hofübergabe"
