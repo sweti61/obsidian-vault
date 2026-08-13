@@ -4,7 +4,7 @@
 - **03.08.** - Doc-Post 5 "Vier Dynamiken IT-Programme"
 - **06.08.** - Doc-Post "Mediation oder Klage?"
 - **11.08.** - Text-Post "Sie analysieren den Konflikt..."
-- 12.08. - Video-Spoiler - Die Geschwister sind sich uneinig - und keiner traut sich mehr zu reden
+- **12.08**. - Video-Spoiler - Die Geschwister sind sich uneinig - und keiner traut sich mehr zu reden
 - **18.08.** - Doc-Post 6 "Brückenpost Familie/Beruf"
 - **19.08.** - Harvard-Post 1 "Menschen und Probleme trennen"
 - **25.08**. - Video-Post "Eine Hofübergabe"
@@ -18,11 +18,8 @@
 - **14.09. (Mo)** - Beitrag 2 "40 LinkedIn-Beiträge. Keine Anfrage."
 - **15.09.** - Emotionaler Post 5 "Schweigen"
 - **17.09.** - Emotionaler Post 6 "Scheitern"
-- **22.09.** - Emotionaler Post 7 "35 Verwaltungsjahre"
-
-
-Neu: Anti-Sales-Funnel
 - **21.09. (Mo)** - Beitrag 3 "Mediation kann keinen Bedarf erzeugen"
+- **22.09.** - Emotionaler Post 7 "35 Verwaltungsjahre"
 - **28.09. (Mo)** - Beitrag 4 "Der Referatsleiter ruft nicht den Mediator an"
 - **05.10. (Mo)** - Beitrag 5 "LinkedIn verkauft vielleicht nicht. Es legitimiert."
 - **12.10. (Mo)** - Beitrag 6 "Vielleicht sprechen wir mit den Falschen"
