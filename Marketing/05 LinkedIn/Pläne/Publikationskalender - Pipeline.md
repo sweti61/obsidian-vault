@@ -21,7 +21,7 @@
 - **14.09. (Mo)** - Beitrag 2 "40 LinkedIn-Beiträge. Keine Anfrage."
 - **15.09.** - Emotionaler Post 5 "Schweigen"
 - **17.09.** - Emotionaler Post 6 "Scheitern"
-- **18.09.** - 
+- **18.09.** - Video-Post "Das Erbe ist geregelt"
 - **21.09. (Mo)** - Beitrag 3 "Mediation kann keinen Bedarf erzeugen"
 - **22.09.** - Emotionaler Post 7 "35 Verwaltungsjahre"
 - **28.09. (Mo)** - Beitrag 4 "Der Referatsleiter ruft nicht den Mediator an"
