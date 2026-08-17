@@ -1,4 +1,4 @@
-![[Startprompt_ReiheA_Vorlage (1)]]# Startprompt-Vorlage - Reihe A
+# Startprompt-Vorlage - Reihe A
 ## Zur Verwendung in einem neuen Chat innerhalb dieses Projekts
 
 Diese Vorlage vor jedem neuen Reihe-A-Video-Chat kopieren und die mit [ ] markierten
