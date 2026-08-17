@@ -10,6 +10,7 @@
 - **19.08.** - Harvard-Post 1 "Menschen und Probleme trennen"
 - **25.08**. - Video-Post "Eine Hofübergabe"
 - **26.08.** - Harvard-Post 2 "Interessen statt Positionen"
+- **31.08 (Mo)** - Video-Post "Der Nachbarschaftskonflikt"
 - **01.09.** - Emotionaler Post 1 "Wendepunkt"
 - **02.09.** - Harvard-Post 3 "Emotionen und Grundbedürfnisse"
 - **03.09.** - Emotionaler Post 2 "Innere Wandlung"
