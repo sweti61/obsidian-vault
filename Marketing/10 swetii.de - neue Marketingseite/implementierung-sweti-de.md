@@ -28,6 +28,8 @@ Die zentrale technische Leitlinie lautet:
 
 Die Website ist damit ausdrücklich **nicht konfigurationsgetrieben**, sondern **content-getrieben**.
 
+**Mobile First:** Die mobile Darstellung ist die primäre Design- und Implementierungsbasis von `sweti.de`. Desktop-Layouts sind Erweiterungen der mobilen Grundstruktur, nicht umgekehrt.
+
 ---
 
 ## 2. Projektstatus
