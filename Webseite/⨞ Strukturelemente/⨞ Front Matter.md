@@ -1,11 +1,11 @@
-- title (bitte SEO optimieren) 👉 wird als **H1 im Hero-Bereich** angezeigt
-- description (bitte SEO optimieren) 👉 wird direkt unter dem Titel im Hero angezeigt; das ist **sichtbarer Text**, nicht nur Meta! gleichzeitig oft auch `<meta name="description">`
+- title (bitte SEO optimieren, max 60 Zeichen) 👉 wird als **H1 im Hero-Bereich** angezeigt
+- description (bitte SEO optimieren, max 155 ) 👉 wird direkt unter dem Titel im Hero angezeigt; das ist **sichtbarer Text**, nicht nur Meta, gleichzeitig oft auch `<meta name="description">`
 - summary (Hero-Text, bitte SEO optimieren) 👉 wird in Listenansichten verwendet (nicht immer im Hero): - oft nicht sichtbar; - aber gut für SEO / Snippets
 - categories (HUGO-intern) 
 - tags (HUGO-intern) 
-- slug  (bitte SEO optimieren)
-- url: /post/[slug]/ (bitte SEO optimieren)
-- date:  
+- slug  (bitte SEO optimieren, nur ASCII-Zeichen, keine Unterstriche)
+- url: /post/[slug]/ (bitte SEO optimieren, nur ASCII-Zeichen, keine Unterstriche)
+- date:  YYYY-MM-DD
 - draft: false
 - toc: true
 - author: "Dr. Swetoslaw Beltschew"
