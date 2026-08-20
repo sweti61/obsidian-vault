@@ -409,9 +409,20 @@ Parameter:
 | `alt` | Alternativtext |
 | `caption` | Bildunterschrift |
 | `class` | optionale zusätzliche CSS-Klasse |
-| `decorative` | bei rein dekorativen Bildern optional `true` |
+| `decorative` | optional `true`, wenn das Bild ausschließlich der Gestaltung dient und keine zusätzliche Information vermittelt; dann wird `alt=""` verwendet |
 
-Für normale redaktionelle Bilder sollte immer ein sinnvoller `alt`-Text vorhanden sein.
+Mit **dekorativen Bildern** sind Bilder gemeint, die keine zusätzliche inhaltliche Information transportieren und für das Verständnis des Textes nicht erforderlich sind. Beispiele sind abstrakte Hintergrundgrafiken, reine Schmuckillustrationen, Trenngrafiken oder ein Hero-Bild, wenn dessen Aussage vollständig durch Überschrift und Text abgedeckt ist.
+
+Beispiel:
+
+```go-html-template
+{{< figure
+  src="deko.png"
+  decorative=true
+>}}
+```
+
+Für redaktionelle Bilder, Fotos, Diagramme oder Illustrationen mit inhaltlicher Aussage gilt dagegen: **immer einen sinnvollen `alt`-Text angeben**.
 
 ---
 
@@ -693,3 +704,34 @@ In einem ersten Gespräch klären wir gemeinsam, welche Form der Unterstützung 
 Damit bleibt die redaktionelle Arbeit klar getrennt von der technischen Umsetzung:
 
 > **Text schreiben, Metadaten pflegen, passende Bilder in das Page Bundle legen und für besondere Content-Bausteine die vorhandenen Shortcodes verwenden. HTML, Responsive Design, Bildoptimierung und Layout übernimmt Hugo.**
+
+
+**Tachyons-Klassen in Markdown**
+
+Ja, das muss im Leitfaden korrigiert werden. Die bisherige Aussage „keine CSS-Klassen zur manuellen Positionierung“ war zu pauschal.
+
+In eurem Hugo-Setup können Markdown-Elemente mit Attributen bzw. Tachyons-Klassen versehen werden, zum Beispiel:
+
+### 1. KLÄREN – Mediation {.f4 .fw5 .lh-title .mt3 .mb2}
+### 2. ENTWICKELN – Coaching {.f4 .fw5 .lh-title .mt3 .mb2}
+### 3. STRUKTURIEREN – Systemische Beratung {.f4 .fw5 .lh-title .mt3 .mb2}
+## Meine Arbeit ruht auf drei Säulen: {.f3 .fw4 .lh-title .mt4 .mb3}
+
+
+> **Tachyons-Klassen dürfen gezielt direkt in Markdown verwendet werden**, wenn eine redaktionelle Feinsteuerung von Typografie oder Abständen nötig ist. Beispiele sind Schriftgröße, Schriftgewicht, Zeilenhöhe und Margins. Komplexe Layouts sollen weiterhin nicht über frei geschriebenes HTML oder umfangreiche Klassenketten im Content gebaut werden.
+
+Also:
+
+## Überschrift {.f3 .fw4 .lh-title .mt4 .mb3}
+
+ist erlaubt.
+
+Dagegen sollte so etwas weiterhin vermieden werden:
+
+<div style="width:50%; float:left">
+
+oder umfangreiche manuelle Layoutkonstruktionen im Markdown.
+
+Die Regel wäre damit:
+
+> **Tachyons für begrenzte typografische und spacing-basierte Feinsteuerung: ja. Eigene Layoutprogrammierung im Content: nein.**
