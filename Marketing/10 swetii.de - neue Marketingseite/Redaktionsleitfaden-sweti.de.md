@@ -706,7 +706,7 @@ Damit bleibt die redaktionelle Arbeit klar getrennt von der technischen Umsetzun
 > **Text schreiben, Metadaten pflegen, passende Bilder in das Page Bundle legen und für besondere Content-Bausteine die vorhandenen Shortcodes verwenden. HTML, Responsive Design, Bildoptimierung und Layout übernimmt Hugo.**
 
 
-**Tachyons-Klassen in Markdown**
+## 17. Tachyons-Klassen in Markdown
 
 Ja, das muss im Leitfaden korrigiert werden. Die bisherige Aussage „keine CSS-Klassen zur manuellen Positionierung“ war zu pauschal.
 
@@ -735,3 +735,18 @@ oder umfangreiche manuelle Layoutkonstruktionen im Markdown.
 Die Regel wäre damit:
 
 > **Tachyons für begrenzte typografische und spacing-basierte Feinsteuerung: ja. Eigene Layoutprogrammierung im Content: nein.**
+
+
+## 18. Wie Google kurze Seiten bewertet
+
+- **Suchintention entscheidet:** Für manche Anfragen reicht eine sehr kurze, präzise Antwort (z. B. Öffnungszeiten, Kontaktdaten, eine kurze Definition). Hier ranken auch Seiten mit sehr wenigen Worten hervorragend.
+    
+- **Gefahr von „Thin Content“:** Problematisch wird es nur, wenn ein komplexes Thema behandelt werden soll, der Text aber kaum Mehrwert liefert, oberflächlich bleibt oder aus generischen Phrasen besteht.
+    
+- **Kontext & Struktur:** Entscheidend ist, ob Google anhand des Inhalts, der Überschriften (H1, H2) und der Meta-Daten eindeutig erfassen kann, worum es auf der Seite geht.
+
+|**Seitentyp**|**Typische Textlänge**|**Fokus**|
+|---|---|---|
+|**Kontakt- / Impressumsseite**|50 – 150 Wörter|Klare Kontaktdaten, Anfahrt, Öffnungszeiten|
+|**Spezifische Leistungs- / Angebotsseite**|300 – 600 Wörter|Nutzenversprechen, Zielgruppe, Ablauf, Call-to-Action|
+|**Fachartikel / Ratgeberseite**|800 – 1.500+ Wörter|Tiefgehende Beantwortung von Fragestellungen, Fallbeispiele|
