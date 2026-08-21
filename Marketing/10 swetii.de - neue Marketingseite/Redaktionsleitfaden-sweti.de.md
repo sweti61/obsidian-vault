@@ -750,3 +750,24 @@ Die Regel wäre damit:
 |**Kontakt- / Impressumsseite**|50 – 150 Wörter|Klare Kontaktdaten, Anfahrt, Öffnungszeiten|
 |**Spezifische Leistungs- / Angebotsseite**|300 – 600 Wörter|Nutzenversprechen, Zielgruppe, Ablauf, Call-to-Action|
 |**Fachartikel / Ratgeberseite**|800 – 1.500+ Wörter|Tiefgehende Beantwortung von Fragestellungen, Fallbeispiele|
+
+Im Web gilt ein Schnitt von **12 bis 20 Wörtern** als ideal. Sätze mit mehr als 25 bis 30 Wörtern gelten als schwer erfassbar und sollten aufgebrochen werden.
+
+**Richtwert:**
+
+- **12 – 18 Wörter pro Satz:** Optimal für Webtexte, hohe Klarheit.
+    
+- **> 20–25 Wörter pro Satz:** Das Tool stuft solche Texte tendenziell als schwer lesbar ein; Sätze sollten aufgeteilt werden.
+
+|**Score-Bereich**|**Einstufung in Screaming Frog**|**Zielgruppe / Textart**|
+|---|---|---|
+|**90 – 100**|Sehr leicht|Sehr einfache Alltagssprache|
+|**60 – 70**|Standard / Leicht|**Web-Standard:** Leicht verständlich für die breite Öffentlichkeit|
+|**30 – 49**|Schwierig (_Difficult_)|Akademische Texte, Fachthemen, juristische Inhalte|
+|**0 – 29**|Sehr schwierig (_Very Difficult_)|Hochkomplexe wissenschaftliche Abhandlungen|
+
+**Wichtig für deutsche Webseiten**
+
+- **Sprachspezifische Formel:** Die Standard-Flesch-Formel basiert auf der englischen Sprache. Da das Deutsche durch Komposita (z. B. _Konfliktlösungsmechanismus_) von Natur aus längere Wörter mit mehr Silben hat, fällt der Score bei deutschen Texten oft automatisch etwas niedriger aus.
+    
+- **Zielgruppen-Abwägung:** Ein Score von 40–50 ist für anspruchsvolle B2B- oder Fachthemen völlig in Ordnung. Bei Erstkontakt- und Informationsseiten für Ratsuchende
