@@ -19,6 +19,7 @@ Eine typische Seite beginnt mit einem Frontmatter-Block:
 title: "Pflege und Verantwortung"
 description: "Konfliktklärung für Familien bei Pflege und Verantwortung."
 summary: "Wenn Geschwister unterschiedliche Vorstellungen darüber haben, wer Verantwortung übernehmen soll."
+date: 2026-08-21
 tags:
   - angebote
 weight: 10
@@ -500,6 +501,8 @@ orange
 
 Innerhalb eines einzelnen Elements sollte nur **eine Akzentfarbe** verwendet werden.
 
+Der CTA ist für externe Terminlinks, insbesondere Calendly, vorgesehen. Der Link wird automatisch in einem neuen Browser-Tab beziehungsweise Fenster geöffnet. Texter müssen dafür kein `target` oder `rel` angeben.
+
 ---
 
 ## 12. Cards
@@ -602,7 +605,52 @@ Der Google-Maps-API-Key wird zentral in `config.toml` verwaltet und darf **nicht
 
 ---
 
-## 15. Was Texter nicht tun sollen
+## 15. Aktuelles und `news-card`
+
+Die Seite `/aktuelles/` besteht aus einer kurzen Einleitung und mehreren Meldungskarten untereinander. Die Meldungen werden direkt in der Markdown-Datei der Seite gepflegt.
+
+Für jede Meldung wird der Shortcode `news-card` verwendet.
+
+Beispiel:
+
+```go-html-template
+{{< news-card
+  category="blog"
+  date="2026-08-21"
+  title="Neuer Beitrag veröffentlicht"
+>}}
+
+Kurzer Fließtext zur Meldung. Hier kann beschrieben werden, was neu ist und warum der Hinweis für Besucher relevant ist.
+
+{{< /news-card >}}
+```
+
+Parameter:
+
+| Parameter | Bedeutung |
+|---|---|
+| `category` | Art der Meldung |
+| `date` | Datum der Meldung im Format `YYYY-MM-DD` |
+| `title` | Überschrift der Meldung; wird als H2 ausgegeben |
+| Inner Content | Fließtext der Meldung |
+
+Aktuell stehen drei Kategorien zur Verfügung:
+
+| `category` | sichtbare Bezeichnung | Feather-Icon |
+|---|---|---|
+| `blog` | Neuer Blog | `file-text` |
+| `event` | Event | `calendar` |
+| `info` | Information | `info` |
+
+Links in der Karte steht ein großes Feather-Icon mit der kleinen Kategorienbezeichnung darunter. Rechts folgen Datum, Überschrift und Meldungstext.
+
+Die Meldungsüberschrift wird als **H2** ausgegeben. Die H1 der Seite ist bereits der Seitentitel `Aktuelles`.
+
+Die Meldungskarten stehen bewusst untereinander und werden nicht in ein `card-grid` gesetzt. Das visuelle Feintuning des `news-card` erfolgt später anhand echter Inhalte; die redaktionelle Verwendung der Parameter bleibt davon unberührt.
+
+---
+
+## 16. Was Texter nicht tun sollen
 
 Keine Markdown-Bilder:
 
@@ -616,7 +664,25 @@ Keine HTML-Layoutkonstruktionen:
 <div style="width:50%; float:left">
 ```
 
-Keine CSS-Klassen zur manuellen Positionierung.
+Tachyons-Klassen dürfen gezielt direkt in Markdown verwendet werden, wenn eine redaktionelle Feinsteuerung von Typografie oder Abständen nötig ist.
+
+Beispiele:
+
+```markdown
+### 1. KLÄREN – Mediation {.f4 .fw5 .lh-title .mt3 .mb2}
+
+### 2. ENTWICKELN – Coaching {.f4 .fw5 .lh-title .mt3 .mb2}
+
+### 3. STRUKTURIEREN – Systemische Beratung {.f4 .fw5 .lh-title .mt3 .mb2}
+
+## Meine Arbeit ruht auf drei Säulen: {.f3 .fw4 .lh-title .mt4 .mb3}
+```
+
+Dabei gilt:
+
+> **Tachyons für begrenzte typografische und spacing-basierte Feinsteuerung: ja. Eigene Layoutprogrammierung im Content: nein.**
+
+Komplexe Layouts sollen weiterhin nicht mit frei geschriebenem HTML, Inline-Styles oder umfangreichen Layout-Klassenketten im Content gebaut werden.
 
 Keine umfangreichen Layoutdefinitionen in der Frontmatter:
 
@@ -642,7 +708,7 @@ content/angebote/_index.md
 
 ---
 
-## 16. Empfohlener Aufbau einer Angebots-Landingpage
+## 17. Empfohlener Aufbau einer Angebots-Landingpage
 
 Typisches Page Bundle:
 
@@ -663,6 +729,7 @@ content/
 title: "Pflege und Verantwortung"
 description: "Konfliktklärung für Familien, wenn Pflege, Verantwortung und unterschiedliche Erwartungen zum Konflikt werden."
 summary: "Wenn Geschwister unterschiedliche Vorstellungen darüber haben, wer Verantwortung für einen älteren Angehörigen übernehmen soll."
+date: 2026-08-21
 tags:
   - angebote
 weight: 10
@@ -701,79 +768,24 @@ In einem ersten Gespräch klären wir gemeinsam, welche Form der Unterstützung 
 {{< /cta >}}
 ```
 
+## 18. Kurze Checkliste vor dem Speichern
+
+Vor dem Abschluss einer neuen oder geänderten Seite prüfen:
+
+- `title` vorhanden und keine zusätzliche H1 (`#`) im Markdown
+- `description` passend zur konkreten Seite
+- bei Angebotsseiten `summary`, `tags: angebote` und `weight` gepflegt
+- bei neuen Inhaltsseiten `date` gesetzt
+- `lastmod` nur bei einer späteren wesentlichen inhaltlichen Überarbeitung aktualisiert
+- Bilder liegen im Page Bundle
+- Hero-Bild heißt `hero.png` und ist vorzugsweise 1200 × 675 px
+- keine Markdown-Bilder mit `![]()`
+- für inhaltliche Bilder sinnvoller `alt`-Text vorhanden
+- besondere Inhaltsbausteine über die vorgesehenen Shortcodes eingebunden
+- `private: true` und `sitemap.disable: true` nur für Seiten verwenden, die bewusst nicht indexiert werden sollen
+
+---
+
 Damit bleibt die redaktionelle Arbeit klar getrennt von der technischen Umsetzung:
 
 > **Text schreiben, Metadaten pflegen, passende Bilder in das Page Bundle legen und für besondere Content-Bausteine die vorhandenen Shortcodes verwenden. HTML, Responsive Design, Bildoptimierung und Layout übernimmt Hugo.**
-
-
-## 17. Tachyons-Klassen in Markdown
-
-Ja, das muss im Leitfaden korrigiert werden. Die bisherige Aussage „keine CSS-Klassen zur manuellen Positionierung“ war zu pauschal.
-
-In eurem Hugo-Setup können Markdown-Elemente mit Attributen bzw. Tachyons-Klassen versehen werden, zum Beispiel:
-
-### 1. KLÄREN – Mediation {.f4 .fw5 .lh-title .mt3 .mb2}
-### 2. ENTWICKELN – Coaching {.f4 .fw5 .lh-title .mt3 .mb2}
-### 3. STRUKTURIEREN – Systemische Beratung {.f4 .fw5 .lh-title .mt3 .mb2}
-## Meine Arbeit ruht auf drei Säulen: {.f3 .fw4 .lh-title .mt4 .mb3}
-
-
-> **Tachyons-Klassen dürfen gezielt direkt in Markdown verwendet werden**, wenn eine redaktionelle Feinsteuerung von Typografie oder Abständen nötig ist. Beispiele sind Schriftgröße, Schriftgewicht, Zeilenhöhe und Margins. Komplexe Layouts sollen weiterhin nicht über frei geschriebenes HTML oder umfangreiche Klassenketten im Content gebaut werden.
-
-Also:
-
-## Überschrift {.f3 .fw4 .lh-title .mt4 .mb3}
-
-ist erlaubt.
-
-Dagegen sollte so etwas weiterhin vermieden werden:
-
-<div style="width:50%; float:left">
-
-oder umfangreiche manuelle Layoutkonstruktionen im Markdown.
-
-Die Regel wäre damit:
-
-> **Tachyons für begrenzte typografische und spacing-basierte Feinsteuerung: ja. Eigene Layoutprogrammierung im Content: nein.**
-
-
-## 18. Wie Google kurze Seiten bewertet
-
-- **Suchintention entscheidet:** Für manche Anfragen reicht eine sehr kurze, präzise Antwort (z. B. Öffnungszeiten, Kontaktdaten, eine kurze Definition). Hier ranken auch Seiten mit sehr wenigen Worten hervorragend.
-    
-- **Gefahr von „Thin Content“:** Problematisch wird es nur, wenn ein komplexes Thema behandelt werden soll, der Text aber kaum Mehrwert liefert, oberflächlich bleibt oder aus generischen Phrasen besteht.
-    
-- **Kontext & Struktur:** Entscheidend ist, ob Google anhand des Inhalts, der Überschriften (H1, H2) und der Meta-Daten eindeutig erfassen kann, worum es auf der Seite geht.
-
-|**Seitentyp**|**Typische Textlänge**|**Fokus**|
-|---|---|---|
-|**Kontakt- / Impressumsseite**|50 – 150 Wörter|Klare Kontaktdaten, Anfahrt, Öffnungszeiten|
-|**Spezifische Leistungs- / Angebotsseite**|300 – 600 Wörter|Nutzenversprechen, Zielgruppe, Ablauf, Call-to-Action|
-|**Fachartikel / Ratgeberseite**|800 – 1.500+ Wörter|Tiefgehende Beantwortung von Fragestellungen, Fallbeispiele|
-
-Im Web gilt ein Schnitt von **12 bis 20 Wörtern** als ideal. Sätze mit mehr als 25 bis 30 Wörtern gelten als schwer erfassbar und sollten aufgebrochen werden.
-
-**Richtwert:**
-
-- **12 – 18 Wörter pro Satz:** Optimal für Webtexte, hohe Klarheit.
-    
-- **> 20–25 Wörter pro Satz:** Das Tool stuft solche Texte tendenziell als schwer lesbar ein; Sätze sollten aufgeteilt werden.
-
-|**Score-Bereich**|**Einstufung in Screaming Frog**|**Zielgruppe / Textart**|
-|---|---|---|
-|**90 – 100**|Sehr leicht|Sehr einfache Alltagssprache|
-|**60 – 70**|Standard / Leicht|**Web-Standard:** Leicht verständlich für die breite Öffentlichkeit|
-|**30 – 49**|Schwierig (_Difficult_)|Akademische Texte, Fachthemen, juristische Inhalte|
-|**0 – 29**|Sehr schwierig (_Very Difficult_)|Hochkomplexe wissenschaftliche Abhandlungen|
-
-**Wichtig für deutsche Webseiten**
-
-- **Sprachspezifische Formel:** Die Standard-Flesch-Formel basiert auf der englischen Sprache. Da das Deutsche durch Komposita (z. B. _Konfliktlösungsmechanismus_) von Natur aus längere Wörter mit mehr Silben hat, fällt der Score bei deutschen Texten oft automatisch etwas niedriger aus.
-    
-- **Zielgruppen-Abwägung:** Ein Score von 40–50 ist für anspruchsvolle B2B- oder Fachthemen völlig in Ordnung. Bei Erstkontakt- und Informationsseiten für Ratsuchende
-
-|**Typ der Landingpage**|**Typische Wortanzahl**|**Wann sinnvoll?**|
-|---|---|---|
-|**Short-Form** (Kompakt)|**250 – 500 Wörter**|Niedrige Hürde: Newsletter-Anmeldung, Download eines Freebies/Whitepapers, bekannte Standard-Dienstleistungen.|
-|**Medium-Form** (Standard)|**500 – 900 Wörter**|Typische Leistungs- & Angebotsseiten: Dienstleistungen, die Vertrauen erfordern (z. B. Beratung, Coaching, B2B-Services).|
-|**Long-Form** (Ausführlich)|**1.000 – 2.000+ Wörter**|Hohe Hürde / Erklärungsbedarf: Hochpreisige Angebote, komplexe Fachberatung oder wenn die Seite gleichzeitig organisch für stark umkämpfte Keywords ranken soll.|
