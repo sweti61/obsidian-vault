@@ -30,6 +30,14 @@ hugo server --baseURL "https://mediator.sweti.de" --appendPort=false
 
 hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --bind=0.0.0.0 --baseURL=http://192.168.2.121:1313
 
+hugo server -D `
+    --bind 0.0.0.0 `
+    --baseURL http://DEINE-PC-IP:1313 [z. Bsp. 192.168.2.117]`
+    --cleanDestinationDir `
+    --disableFastRender `
+    --noHTTPCache `
+    --ignoreCache
+
 $Env:HUGO_ENV = "production"
 Get-ChildItem Env:
 hugo -D --gc --environment production --minify --cleanDestinationDir
