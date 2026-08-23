@@ -1,7 +1,11 @@
 ---
-title: "Brand Guide – mediator sweti"
-description: "Grafische und visuelle Markenrichtlinien für mediator sweti"
-tags: ["Branding", "Designsystem", "CI", "Canva", "Social Media"]
+title: Brand Guide – mediator sweti
+description: Grafische und visuelle Markenrichtlinien für mediator sweti
+tags:
+  - Branding
+  - Designsystem
+  - CI
+  - Canva
 date: 2025-11-29
 ---
 
