@@ -1,6 +1,6 @@
 # Redaktionsleitfaden für Content auf `sweti.de`
 
-**Version 4 · Stand: 26.08.2026**
+**Version 5 · Stand: 27.08.2026**
 
 Dieser Leitfaden richtet sich an Texter und Content-Creator, die Inhalte für `sweti.de` erstellen oder bearbeiten. Ziel ist, dass neue Seiten ohne Änderungen an Templates, CSS oder Hugo-Code erstellt werden können.
 
@@ -501,11 +501,49 @@ Der CTA unterstützt zwei Darstellungsvarianten:
 
 Ohne Angabe von `style` gilt automatisch `solid`.
 
+### Zentrale Calendly-URL
+
+Die Calendly-URL wird zentral in `config.toml` gepflegt:
+
+```toml
+[params]
+calendlyURL = "https://calendly.com/mediator-sweti"
+```
+
+Der `cta`-Shortcode verwendet diese URL automatisch als Standardziel. Deshalb muss für normale Termin-CTAs kein `url`-Parameter mehr angegeben werden.
+
+Beispiel:
+
+```go-html-template
+{{< cta
+  text="Orientierungsgespräch vereinbaren"
+  accent="blue"
+>}}
+
+In einem ersten Gespräch klären wir, worum es geht und ob mein Angebot zu Ihrer Situation passt.
+
+{{< /cta >}}
+```
+
+Ein abweichendes Ziel kann weiterhin ausdrücklich mit `url` gesetzt werden:
+
+```go-html-template
+{{< cta
+  url="https://example.org/"
+  text="Weitere Informationen"
+  accent="green"
+  style="outline"
+>}}
+
+Kurzer erläuternder Text.
+
+{{< /cta >}}
+```
+
 ### Solid-CTA
 
 ```go-html-template
 {{< cta
-  url="https://calendly.com/..."
   text="Orientierungsgespräch vereinbaren"
   accent="blue"
 >}}
@@ -519,7 +557,6 @@ In einem ersten Gespräch klären wir, worum es geht und ob mein Angebot zu Ihre
 
 ```go-html-template
 {{< cta
-  url="https://calendly.com/..."
   text="Jetzt kostenloses Erstgespräch buchen"
   accent="orange"
   style="outline"
@@ -534,7 +571,7 @@ Parameter:
 
 | Parameter | Bedeutung |
 |---|---|
-| `url` | Ziel des Buttons, Pflicht |
+| `url` | optionales Ziel des Buttons; Standard ist `params.calendlyURL` aus `config.toml` |
 | `text` | Text des Buttons; Standard: `Termin vereinbaren` |
 | `accent` | `blue`, `green` oder `orange`; Standard: `blue` |
 | `style` | `solid` oder `outline`; Standard: `solid` |
@@ -556,11 +593,36 @@ Innerhalb eines einzelnen Elements sollte nur **eine Akzentfarbe** verwendet wer
 
 `outline` ist bewusst zurückhaltender. Der Button hat einen transparenten Hintergrund und eine Kontur in der gewählten Akzentfarbe. Diese Variante eignet sich besonders innerhalb eines `panel`, damit nicht zwei visuell starke Container miteinander konkurrieren.
 
-Der CTA ist für externe Terminlinks, insbesondere Calendly, vorgesehen. Der Link wird automatisch in einem neuen Browser-Tab beziehungsweise Fenster geöffnet. Texter müssen dafür kein `target` oder `rel` angeben.
+Der CTA öffnet externe Ziele automatisch in einem neuen Browser-Tab beziehungsweise Fenster. Texter müssen dafür kein `target` oder `rel` angeben.
 
 Ungültige Werte für `accent` oder `style` werden nicht als eigene Gestaltung interpretiert. Der Shortcode verwendet definierte Fallback-Werte.
 
----
+### Automatischer Abschluss-CTA auf Angebotsseiten
+
+Alle regulären Seiten unter `/angebote/` verwenden ein eigenes Template:
+
+```text
+layouts/angebote/single.html
+```
+
+Dieses Template ergänzt nach dem eigentlichen Seiteninhalt automatisch einen einheitlichen Abschluss-CTA.
+
+Der zentrale Text lautet:
+
+> In einem ersten, unverbindlichen Gespräch klären wir gemeinsam, welche Form der Unterstützung für Ihre Situation sinnvoll ist.
+
+Der Button lautet:
+
+> Kostenfreies Orientierungsgespräch vereinbaren
+
+Das Ziel kommt aus `params.calendlyURL` in `config.toml`.
+
+Redaktionelle Konsequenz:
+
+> **Auf Angebotsseiten keinen zusätzlichen Abschluss-CTA manuell in `index.md` einfügen.**
+
+Ein zusätzlicher CTA innerhalb des Seiteninhalts ist nur dann sinnvoll, wenn er an einer inhaltlich begründeten Zwischenposition steht.
+
 
 ## 12. Cards
 
@@ -856,11 +918,19 @@ Die Meldungsüberschrift wird als **H2** ausgegeben. Die H1 der Seite ist bereit
 
 Die Meldungskarten stehen bewusst untereinander und werden nicht in ein `card-grid` gesetzt. Das visuelle Feintuning des `news-card` erfolgt später anhand echter Inhalte; die redaktionelle Verwendung der Parameter bleibt davon unberührt.
 
-### Shortcodes innerhalb einer `news-card`
+### Markdown innerhalb einer `news-card`
 
-Der innere Bereich einer `news-card` kann neben normalem Text auch weitere Shortcodes enthalten. Damit lassen sich beispielsweise Bilder direkt einer Meldung zuordnen.
+Der Inner Content einer `news-card` wird als normales Markdown gerendert.
 
-Beispiel:
+Damit funktionieren insbesondere:
+
+- Absätze
+- Hervorhebungen wie `**fett**`
+- normale Markdown-Links
+- Listen
+- einfache Markdown-Bilder
+
+Beispiel mit Link:
 
 ```go-html-template
 {{< news-card
@@ -871,24 +941,25 @@ Beispiel:
 
 Ein neuer Beitrag beschäftigt sich mit der Frage, warum unterschiedliche Vorstellungen über Verantwortung in Familien so schnell zu grundsätzlichen Konflikten werden können.
 
-{{< image
-  src="testbild.png"
-  alt="Illustration zum neuen Beitrag"
-  size="small"
->}}
+[Zum Beitrag](https://mediator.sweti.de/...)
 
 {{< /news-card >}}
 ```
 
-Wichtig ist, dass der äußere `news-card`-Shortcode mit
+Auch ein einfaches Markdown-Bild ist möglich:
 
-```go-html-template
-{{< /news-card >}}
+```markdown
+![Testbild](testbild.png)
 ```
 
-geschlossen wird.
+Wichtig:
 
-Für Bilder innerhalb einer Meldung sind je nach Inhalt insbesondere `size="small"` oder `size="medium"` sinnvoll. Der normale Standard des `image`-Shortcodes bleibt `large`.
+> **Verschachtelte Shortcodes innerhalb einer `news-card` werden nicht unterstützt.**
+
+Der frühere Ansatz mit verschachtelten Shortcodes wurde verworfen, weil dabei normales Markdown – insbesondere Links – nicht zuverlässig gerendert wurde. Für `news-card` hat korrektes Markdown Vorrang.
+
+Markdown-Bilder innerhalb einer `news-card` verwenden derzeit **nicht** die spezielle Hugo-Image-Processing-Logik des `image`-Shortcodes. Sie werden als normale Markdown-Bilder ausgegeben. Ein eigener Render Hook kann später ergänzt werden, falls dafür ein konkreter Bedarf entsteht.
+
 
 ---
 
@@ -956,6 +1027,10 @@ Keine zusätzlichen `icon`-Shortcodes innerhalb nummerierter Listen eines `panel
 
 Für nummerierte Panel-Abläufe werden ausschließlich die automatisch gestalteten Nummern-Badges verwendet.
 
+Keine verschachtelten Shortcodes innerhalb einer `news-card`. Dort wird normaler Markdown-Inhalt verwendet.
+
+Auf regulären Angebotsseiten keinen manuellen Abschluss-CTA einfügen. Der einheitliche Abschluss-CTA wird automatisch durch `layouts/angebote/single.html` ergänzt.
+
 ---
 
 
@@ -1008,15 +1083,7 @@ In der Konfliktklärung werden die unterschiedlichen Sichtweisen zunächst sicht
 
 Eine Mediation kann sinnvoll sein, wenn Gespräche immer wieder an denselben Punkten festhängen.
 
-{{< cta
-  url="https://calendly.com/..."
-  text="Orientierungsgespräch vereinbaren"
-  accent="blue"
->}}
-
-In einem ersten Gespräch klären wir gemeinsam, welche Form der Unterstützung für Ihre Situation sinnvoll sein kann.
-
-{{< /cta >}}
+Der abschließende CTA wird auf Angebotsseiten automatisch durch das Template ergänzt und steht deshalb **nicht** im Markdown der Seite.
 ```
 
 ## 19. Kurze Checkliste vor dem Speichern
@@ -1039,6 +1106,9 @@ Vor dem Abschluss einer neuen oder geänderten Seite prüfen:
 - bei `panel` den Titel als H3 im Seitenkontext berücksichtigen; Panel möglichst unter einer H2 einsetzen
 - in nummerierten Panel-Listen keine zusätzlichen `icon`-Shortcodes verwenden
 - für einen zurückhaltenden CTA innerhalb eines Panels bevorzugt `style="outline"` verwenden
+- bei normalen Termin-CTAs keine Calendly-URL wiederholen; ohne `url` wird automatisch `params.calendlyURL` verwendet
+- auf regulären Angebotsseiten keinen manuellen Abschluss-CTA einfügen
+- innerhalb einer `news-card` normales Markdown verwenden und keine Shortcodes verschachteln
 - externe `card`-Links benötigen keinen Zusatzparameter; sie öffnen automatisch in einem neuen Tab
 - `private: true` und `sitemap.disable: true` nur für Seiten verwenden, die bewusst nicht indexiert werden sollen
 
