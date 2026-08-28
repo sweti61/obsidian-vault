@@ -104,15 +104,15 @@ Manchmal ist ein Gespräch längst überfällig. Manchmal ist es gerade deshalb 
 
 {{< card-grid >}}
 
-{{< card title="Familie & Beziehung" url="https://mediator.sweti.de/mediator-dresden/" icon="users" accent="blue" >}}
+{{< card title="Familie & Beziehung" url="{{< relref "angebote/wieder-miteinander-sprechen" >}}" icon="users" accent="blue" >}}
 Wenn Gespräche zwischen Eltern und Kindern, unter Geschwistern oder in der Partnerschaft ins Stocken geraten.
 {{< /card >}}
 
-{{< card title="Pflege & Erbe" url="https://mediator.sweti.de/pflegende-angehoerige-dresden/" icon="heart" accent="green" >}}
-Wenn Pflege, Verantwortung oder eine Erbschaft alte Rollen und neue Spannungen sichtbar machen.
+{{< card title="Pflege & Erbe" url="{{< relref "angebote/pflege-und-alter-in-der-familie" >}}" icon="heart" accent="green" >}}
+Wenn Pflege, Verantwortung oder eine Erbschaft alte Rollen und neue Spannungen sichtbar machen, auch als Elder Mediation.
 {{< /card >}}
 
-{{< card title="Nachbarschaft" url="https://mediator.sweti.de/nachbarschaftskonflikt-mediation-dresden/" icon="home" accent="orange" >}}
+{{< card title="Nachbarschaft" url="{{< relref "angebote/nachbarschaftskonflikt-klaeren" >}}" icon="home" accent="orange" >}}
 Wenn Streit mit Nachbarn den Alltag belastet und ein Gespräch allein nicht mehr weiterhilft.
 {{< /card >}}
 
@@ -124,6 +124,18 @@ Wenn Streit mit Nachbarn den Alltag belastet und ein Gespräch allein nicht mehr
 - Die fünfte Konstellation von mediator.sweti.de („Mediation für Organisationen") entfällt vollständig, klar B2B, nicht Teil von sweti.de
 - Jede Card verlinkt genau **eine** passende mediator.sweti.de-Pillarseite (nicht mehrere Links wie im mediator.sweti.de-Vorbild), da der `card`-Shortcode nur ein `url`-Feld unterstützt und Mobile First kurze Cards verlangt
 - CI-Akzentfarben: eine Farbe pro Card (blue/green/orange), keine Farbe doppelt
+
+**Korrektur vom 27.08.2026, wichtige Navigationsentscheidung:** Ursprünglich verlinkten alle drei Cards direkt auf mediator.sweti.de. Das wurde revidiert: Ein Besucher sollte beim ersten Klick auf sweti.de bleiben, statt sofort auf eine fremde Domain zu springen (Grundsatz „sweti.de orientiert, mediator.sweti.de vertieft fachlich" wurde auf Card-Ebene verletzt). Die Cards verlinken jetzt auf die passenden eigenen sweti.de-Angebotsseiten (interner `relref`-Link):
+
+| Card | sweti.de-Angebot (Slug) |
+|---|---|
+| Familie & Beziehung | `wieder-miteinander-sprechen` |
+| Pflege & Erbe | `pflege-und-alter-in-der-familie` |
+| Nachbarschaft | `nachbarschaftskonflikt-klaeren` |
+
+**Sonderfall „Pflege & Erbe":** sweti.de führt Pflege und Erbe als zwei getrennte Angebote (`pflege-und-alter-in-der-familie` und `erbschaftsstreit-klaeren`), der Card-Text deckt aber bewusst beide Themen ab. Entscheidung (Option B von drei geprüften Varianten): Card-Text bleibt breit, verlinkt wird nur die breitere/passendere Seite `pflege-und-alter-in-der-familie` (dort ist auch der Elder-Mediation-Bezug verankert). Damit das funktioniert, braucht `pflege-und-alter-in-der-familie` einen internen Querverweis zu `erbschaftsstreit-klaeren`, sonst finden Besucher mit reinem Erbschaftsthema (ohne Pflegebezug) das passende Angebot nicht. Dieser Querverweis ist als offener Punkt im Angebote-Chat vermerkt, ebenso wie das Gegenstück (Querverweis von `erbschaftsstreit-klaeren` zurück zu `pflege-und-alter-in-der-familie`).
+
+Die früheren externen mediator.sweti.de-Links (`beziehungs-und-familiengespraeche`, `mediation-bei-pflege-erbe-uebergang-dresden`, `nachbarschaftskonflikt-mediation-dresden`) sind damit **nicht mehr Teil der Startseite**, sollen aber weiterhin von den jeweiligen sweti.de-Angebotsseiten selbst aus verlinkt sein (fachliche Vertiefung eine Ebene tiefer). Konkrete Textbausteine dafür liegen in der separaten Datei `textbausteine-verlinkung-angebote-sweti-de.md`.
 
 ---
 
@@ -213,6 +225,7 @@ Unverändert, bereits umgesetzt. Enthält sitewide: Kontakt, Impressum, Datensch
 | Vierte Situations-Card „Gespräche nicht mehr möglich" | verworfen zugunsten Freitext | Hält das Card-Grid bei 3 statt 4 Cards, passt besser zu „kompakt bleiben" |
 | Eigener `steps`-Shortcode mit Icon pro Listenschritt | vereinfacht | Nur Nummern-Badges, keine zusätzlichen Icons je Schritt, technisch einfacher, Darstellung bereits klar genug |
 | Link auf Testimonial-Seiten oder komplettes Fallgeschichten-Tag-Archiv | verworfen zugunsten Einzellink | Beide enthalten oder ermöglichen B2B-Inhalte bzw. gelten als veraltet |
+| Situations-Cards verlinken direkt auf mediator.sweti.de | verworfen zugunsten interner Links | Verstößt gegen „sweti.de orientiert, mediator.sweti.de vertieft", Besucher sollte beim ersten Klick nicht sofort die Domain wechseln, siehe Korrektur in Abschnitt 5 |
 
 ---
 
