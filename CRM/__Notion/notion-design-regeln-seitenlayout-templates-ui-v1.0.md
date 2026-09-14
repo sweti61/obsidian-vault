@@ -1,9 +1,11 @@
 # Design-Regeln für Seitenlayout, Templates und UI
 
-**Version:** 0.6\
-**Stand:** 13.09.2026\
+**Version:** 1.0\
+**Stand:** 14.09.2026\
 **Geltungsbereich:** Notion Relationship Management (RM) und Content Hub
-(C-H)
+
+**Status:** Abschluss der Konzeptions- und Aufbauphase; Beginn der
+Nutzungsphase am 14.09.2026 (C-H)
 
 ## 1. Zweck und Leitgedanke
 
@@ -115,9 +117,14 @@ prominent in den allgemeinen Properties erscheinen.
 
 ### DR-08 -- Views sind Arbeitsoberflächen, keine neuen Datenmodelle
 
-Views bilden unterschiedliche Arbeits- und Auswertungsperspektiven auf dieselben fachlichen Datensätze. Sie verändern das Datenmodell nicht und erzeugen keine neuen fachlichen Objektmengen.
+Views bilden unterschiedliche Arbeits- und Auswertungsperspektiven auf
+dieselben fachlichen Datensätze. Sie verändern das Datenmodell nicht und
+erzeugen keine neuen fachlichen Objektmengen.
 
-Filter, Sortierung, Gruppierung, sichtbare Properties und Darstellungsform werden verwendet, um die Datensätze für einen bestimmten Arbeitszweck zugänglich zu machen. Für eine andere Arbeitssicht wird nicht vorschnell eine zusätzliche Datenbank angelegt.
+Filter, Sortierung, Gruppierung, sichtbare Properties und
+Darstellungsform werden verwendet, um die Datensätze für einen
+bestimmten Arbeitszweck zugänglich zu machen. Für eine andere
+Arbeitssicht wird nicht vorschnell eine zusätzliche Datenbank angelegt.
 
 ### DR-09 -- Standard-Views für den Normalfall
 
@@ -344,145 +351,242 @@ Operationalisierung
   └─ anderes Fachobjekt
 ```
 
+### DR-26 -- Fachkataloge erhalten vereinfachte Layouts und Templates
 
-### DR-26 – Fachkataloge erhalten vereinfachte Layouts und Templates
+Fachkataloge dienen primär der einheitlichen Referenzierung und
+fachlichen Einordnung anderer Objekte. Ihre Datensätze besitzen in der
+Regel keinen eigenen operativen Arbeitsprozess. Daher werden für
+Fachkataloge bewusst vereinfachte Seitenlayouts und Templates verwendet.
 
-Fachkataloge dienen primär der einheitlichen Referenzierung und fachlichen Einordnung anderer Objekte. Ihre Datensätze besitzen in der Regel keinen eigenen operativen Arbeitsprozess. Daher werden für Fachkataloge bewusst vereinfachte Seitenlayouts und Templates verwendet.
-
-> **Je geringer der eigenständige Bearbeitungsbedarf eines Fachkatalogeintrags, desto einfacher bleiben Seitenlayout und Template.**
+> **Je geringer der eigenständige Bearbeitungsbedarf eines
+> Fachkatalogeintrags, desto einfacher bleiben Seitenlayout und
+> Template.**
 
 Insbesondere gilt:
 
-- Wenige Properties benötigen keine künstliche Gruppierung.
-- Relationen erhalten nur dann eigene Bereiche oder Tabs, wenn sie tatsächlich zur Pflege des Katalogeintrags benötigt werden.
-- Templates enthalten nur wiederkehrenden narrativen Inhalt, der bei der Pflege tatsächlich Arbeit spart.
-- Leere Abschnittsstrukturen werden nicht vorsorglich angelegt.
-- Operative UI-Elemente wie Buttons oder Workflowbereiche werden nicht ohne konkreten Bedarf übernommen.
+-   Wenige Properties benötigen keine künstliche Gruppierung.
+-   Relationen erhalten nur dann eigene Bereiche oder Tabs, wenn sie
+    tatsächlich zur Pflege des Katalogeintrags benötigt werden.
+-   Templates enthalten nur wiederkehrenden narrativen Inhalt, der bei
+    der Pflege tatsächlich Arbeit spart.
+-   Leere Abschnittsstrukturen werden nicht vorsorglich angelegt.
+-   Operative UI-Elemente wie Buttons oder Workflowbereiche werden nicht
+    ohne konkreten Bedarf übernommen.
 
-### DR-27 – Templates sind schlanke Erfassungsoberflächen
+### DR-27 -- Templates sind schlanke Erfassungsoberflächen
 
-Datenbank-Templates sind Teil der Benutzeroberfläche für die Erfassung neuer Datensätze. Sie sollen die Erfassung erleichtern, wiederkehrende Eingaben und Strukturen vorbelegen und dadurch Arbeit sparen.
+Datenbank-Templates sind Teil der Benutzeroberfläche für die Erfassung
+neuer Datensätze. Sie sollen die Erfassung erleichtern, wiederkehrende
+Eingaben und Strukturen vorbelegen und dadurch Arbeit sparen.
 
-Im RM und Content Hub werden Templates bewusst schlank gehalten. Sie verlangen oder erzeugen nur Informationen und Strukturen, die beim Anlegen eines Datensatzes regelmäßig benötigt werden oder die weitere Bearbeitung unmittelbar erleichtern.
+Im RM und Content Hub werden Templates bewusst schlank gehalten. Sie
+verlangen oder erzeugen nur Informationen und Strukturen, die beim
+Anlegen eines Datensatzes regelmäßig benötigt werden oder die weitere
+Bearbeitung unmittelbar erleichtern.
 
-> **Ein Template soll die Datenerfassung unterstützen, nicht einen bürokratischen Bearbeitungsprozess erzwingen.**
+> **Ein Template soll die Datenerfassung unterstützen, nicht einen
+> bürokratischen Bearbeitungsprozess erzwingen.**
 
 Daraus folgt:
 
-- Wiederkehrende Werte werden sinnvoll vorbelegt, statt erneut eingegeben.
-- H2/H3-Strukturen dürfen die Erfassung narrativer Inhalte orientieren.
-- Informationen, die beim Anlegen noch nicht bekannt oder nicht erforderlich sind, werden nicht vorsorglich verlangt.
-- Strukturierte Properties werden nicht als Eingabefelder im Seiteninhalt dupliziert.
-- Zusätzliche Template-Varianten werden nur angelegt, wenn sie einen wiederkehrenden Erfassungsfall tatsächlich vereinfachen.
+-   Wiederkehrende Werte werden sinnvoll vorbelegt, statt erneut
+    eingegeben.
+-   H2/H3-Strukturen dürfen die Erfassung narrativer Inhalte
+    orientieren.
+-   Informationen, die beim Anlegen noch nicht bekannt oder nicht
+    erforderlich sind, werden nicht vorsorglich verlangt.
+-   Strukturierte Properties werden nicht als Eingabefelder im
+    Seiteninhalt dupliziert.
+-   Zusätzliche Template-Varianten werden nur angelegt, wenn sie einen
+    wiederkehrenden Erfassungsfall tatsächlich vereinfachen.
 
-### DR-28 – Templates entstehen aus der tatsächlichen Arbeitsweise
+### DR-28 -- Templates entstehen aus der tatsächlichen Arbeitsweise
 
-Templates werden aus wiederkehrender tatsächlicher Nutzung entwickelt, nicht aus einer möglichst vollständigen Vorstellung des späteren Arbeitsprozesses.
+Templates werden aus wiederkehrender tatsächlicher Nutzung entwickelt,
+nicht aus einer möglichst vollständigen Vorstellung des späteren
+Arbeitsprozesses.
 
-Neue Template-Strukturen und Template-Varianten werden eingeführt, wenn sich in der praktischen Arbeit wiederholt derselbe Erfassungsbedarf zeigt. Ein Template wird angepasst oder vereinfacht, wenn seine Elemente regelmäßig leer bleiben, übersprungen werden oder zusätzliche Pflege verursachen.
+Neue Template-Strukturen und Template-Varianten werden eingeführt, wenn
+sich in der praktischen Arbeit wiederholt derselbe Erfassungsbedarf
+zeigt. Ein Template wird angepasst oder vereinfacht, wenn seine Elemente
+regelmäßig leer bleiben, übersprungen werden oder zusätzliche Pflege
+verursachen.
 
-> **Template-Komplexität folgt der Nutzung; sie wird nicht vorsorglich aufgebaut.**
+> **Template-Komplexität folgt der Nutzung; sie wird nicht vorsorglich
+> aufgebaut.**
 
-### DR-29 – Templates geben Orientierung, ohne erklärungsbedürftig zu werden
+### DR-29 -- Templates geben Orientierung, ohne erklärungsbedürftig zu werden
 
-Ein Template soll durch seine Struktur möglichst selbsterklärend sein. Überschriften, kurze Hinweise, sinnvolle Vorbelegungen und bei Bedarf knappe Beispiele dürfen die Datenerfassung unterstützen.
+Ein Template soll durch seine Struktur möglichst selbsterklärend sein.
+Überschriften, kurze Hinweise, sinnvolle Vorbelegungen und bei Bedarf
+knappe Beispiele dürfen die Datenerfassung unterstützen.
 
-Ein regelmäßig verwendetes Template soll jedoch keine separate Anleitung benötigen, um verstanden und korrekt benutzt zu werden.
+Ein regelmäßig verwendetes Template soll jedoch keine separate Anleitung
+benötigen, um verstanden und korrekt benutzt zu werden.
 
-> **Wird für ein Template eine umfangreiche Gebrauchsanweisung erforderlich, ist zunächst zu prüfen, ob das Template vereinfacht werden kann.**
+> **Wird für ein Template eine umfangreiche Gebrauchsanweisung
+> erforderlich, ist zunächst zu prüfen, ob das Template vereinfacht
+> werden kann.**
 
+### DR-30 -- Dauerhafte Views beantworten wiederkehrende Arbeitsfragen
 
-### DR-30 – Dauerhafte Views beantworten wiederkehrende Arbeitsfragen
+Eine dauerhafte View wird für eine konkrete, wiederkehrende Arbeitsfrage
+eingerichtet. Einmalige oder seltene Auswertungsfragen werden durch
+temporäre Filter-, Sortier- oder Gruppierungseinstellungen beantwortet
+und rechtfertigen keine dauerhafte View.
 
-Eine dauerhafte View wird für eine konkrete, wiederkehrende Arbeitsfrage eingerichtet. Einmalige oder seltene Auswertungsfragen werden durch temporäre Filter-, Sortier- oder Gruppierungseinstellungen beantwortet und rechtfertigen keine dauerhafte View.
+> **So wenige dauerhafte Views wie möglich, so viele wie für die
+> wiederkehrende Arbeit nötig.**
 
-> **So wenige dauerhafte Views wie möglich, so viele wie für die wiederkehrende Arbeit nötig.**
+### DR-31 -- Jede View besitzt einen erkennbaren Arbeitszweck
 
-### DR-31 – Jede View besitzt einen erkennbaren Arbeitszweck
+Filter, Sortierung, Gruppierung und sichtbare Properties einer View
+werden aus ihrer Arbeitsfrage abgeleitet. Eine View zeigt nur die
+Informationen, die für diese Arbeitssicht relevant sind.
 
-Filter, Sortierung, Gruppierung und sichtbare Properties einer View werden aus ihrer Arbeitsfrage abgeleitet. Eine View zeigt nur die Informationen, die für diese Arbeitssicht relevant sind.
+> **Properties speichern die fachliche Bedeutung. Views organisieren
+> ihre Nutzung für einen konkreten Arbeitszweck.**
 
-> **Properties speichern die fachliche Bedeutung. Views organisieren ihre Nutzung für einen konkreten Arbeitszweck.**
+Eine View soll deshalb nicht möglichst vollständig die Datenbankstruktur
+abbilden, sondern die für ihre Arbeitsfrage erforderliche
+Arbeitsoberfläche bereitstellen.
 
-Eine View soll deshalb nicht möglichst vollständig die Datenbankstruktur abbilden, sondern die für ihre Arbeitsfrage erforderliche Arbeitsoberfläche bereitstellen.
+### DR-32 -- Die Darstellungsform folgt der Arbeitsfrage
 
-### DR-32 – Die Darstellungsform folgt der Arbeitsfrage
-
-Tabelle, Liste, Board, Kalender, Timeline, Galerie oder Map werden nach ihrem funktionalen Nutzen für die jeweilige Arbeitsfrage gewählt. Unterschiedliche Darstellungsformen werden nicht allein zur visuellen Variation angelegt.
+Tabelle, Liste, Board, Kalender, Timeline, Galerie oder Map werden nach
+ihrem funktionalen Nutzen für die jeweilige Arbeitsfrage gewählt.
+Unterschiedliche Darstellungsformen werden nicht allein zur visuellen
+Variation angelegt.
 
 Beispiele:
 
-- Eigenschaften vergleichen → Tabelle
-- Statusfluss bearbeiten → Board
-- Termine überblicken → Kalender
-- zeitliche Zusammenhänge und Abhängigkeiten betrachten → Timeline
-- visuelle Inhalte beurteilen → Galerie
+-   Eigenschaften vergleichen → Tabelle
+-   Statusfluss bearbeiten → Board
+-   Termine überblicken → Kalender
+-   zeitliche Zusammenhänge und Abhängigkeiten betrachten → Timeline
+-   visuelle Inhalte beurteilen → Galerie
 
-> **Die technische Verfügbarkeit einer Darstellungsform ist kein Grund für eine zusätzliche View.**
+> **Die technische Verfügbarkeit einer Darstellungsform ist kein Grund
+> für eine zusätzliche View.**
 
-### DR-33 – Views werden dort bereitgestellt, wo die Arbeit stattfindet
+### DR-33 -- Views werden dort bereitgestellt, wo die Arbeit stattfindet
 
-Eine View wird dort eingebunden, wo ihre Arbeitsfrage bearbeitet wird. Datenbankeigene Views dienen der Arbeit innerhalb einer Fach-Datenbank. Linked Views bringen ausgewählte Arbeitssichten in Cockpits oder andere Arbeitskontexte, ohne Daten zu duplizieren.
+Eine View wird dort eingebunden, wo ihre Arbeitsfrage bearbeitet wird.
+Datenbankeigene Views dienen der Arbeit innerhalb einer Fach-Datenbank.
+Linked Views bringen ausgewählte Arbeitssichten in Cockpits oder andere
+Arbeitskontexte, ohne Daten zu duplizieren.
 
-Damit bleibt die fachliche Datenhaltung in den jeweiligen Datenbanken, während Cockpits und Dashboards die für einen Arbeitskontext relevanten Perspektiven zusammenführen.
+Damit bleibt die fachliche Datenhaltung in den jeweiligen Datenbanken,
+während Cockpits und Dashboards die für einen Arbeitskontext relevanten
+Perspektiven zusammenführen.
 
-### DR-34 – Das gemeinsame Cockpit ist eine operative Einstiegsebene
+### DR-34 -- Das gemeinsame Cockpit ist eine operative Einstiegsebene
 
-Das gemeinsame Cockpit bündelt die wiederkehrenden Arbeitsfragen aus Relationship Management und Content Hub in einer gemeinsamen operativen Sicht. Es bildet nicht die Struktur aller zugrunde liegenden Datenbanken ab, sondern zeigt vorrangig die Objekte, die aktuell Aufmerksamkeit, Entscheidung oder Bearbeitung benötigen.
+Das gemeinsame Cockpit bündelt die wiederkehrenden Arbeitsfragen aus
+Relationship Management und Content Hub in einer gemeinsamen operativen
+Sicht. Es bildet nicht die Struktur aller zugrunde liegenden Datenbanken
+ab, sondern zeigt vorrangig die Objekte, die aktuell Aufmerksamkeit,
+Entscheidung oder Bearbeitung benötigen.
 
-> **Das Cockpit zeigt nicht, was das System enthält, sondern was für die aktuelle Arbeit relevant ist.**
+> **Das Cockpit zeigt nicht, was das System enthält, sondern was für die
+> aktuelle Arbeit relevant ist.**
 
-### DR-35 – Cockpit-Inhalte werden aus wiederkehrenden Arbeitsfragen abgeleitet
+### DR-35 -- Cockpit-Inhalte werden aus wiederkehrenden Arbeitsfragen abgeleitet
 
-Jedes dauerhafte Element des Cockpits muss eine konkrete wiederkehrende Arbeitsfrage beantworten. Ein Datenbestand oder eine vorhandene Fach-View wird nicht allein deshalb im Cockpit dargestellt, weil sie vorhanden oder fachlich wichtig ist.
+Jedes dauerhafte Element des Cockpits muss eine konkrete wiederkehrende
+Arbeitsfrage beantworten. Ein Datenbestand oder eine vorhandene
+Fach-View wird nicht allein deshalb im Cockpit dargestellt, weil sie
+vorhanden oder fachlich wichtig ist.
 
-> **Wenige dauerhafte Cockpit-Sichten für wiederkehrende Arbeitsfragen; einmalige Auswertungen bleiben temporär.**
+> **Wenige dauerhafte Cockpit-Sichten für wiederkehrende Arbeitsfragen;
+> einmalige Auswertungen bleiben temporär.**
 
-### DR-36 – Das Cockpit verdichtet und führt zur Facharbeit weiter
+### DR-36 -- Das Cockpit verdichtet und führt zur Facharbeit weiter
 
-Das Cockpit zeigt nur so viel Information, wie erforderlich ist, um Handlungs-, Steuerungs- oder Entscheidungsbedarf zu erkennen. Von dort führt es direkt zum betreffenden Datensatz oder zu einer detaillierteren Fach-View.
+Das Cockpit zeigt nur so viel Information, wie erforderlich ist, um
+Handlungs-, Steuerungs- oder Entscheidungsbedarf zu erkennen. Von dort
+führt es direkt zum betreffenden Datensatz oder zu einer detaillierteren
+Fach-View.
 
-Cockpit-Sichten dürfen deshalb stärker reduziert sein als die dauerhaften Views der jeweiligen Fachdatenbank. Das Cockpit soll nicht die gesamte Fachbearbeitung auf einer Seite nachbilden.
+Cockpit-Sichten dürfen deshalb stärker reduziert sein als die
+dauerhaften Views der jeweiligen Fachdatenbank. Das Cockpit soll nicht
+die gesamte Fachbearbeitung auf einer Seite nachbilden.
 
 ``` text
 Erkennen → auswählen → Fach-View / Datensatz öffnen → bearbeiten
 ```
 
-### DR-37 – Das Cockpit integriert Arbeit, nicht Fachmodelle
+### DR-37 -- Das Cockpit integriert Arbeit, nicht Fachmodelle
 
-Relationship Management und Content Hub werden im gemeinsamen Cockpit über ihre Arbeitsbedarfe zusammengeführt. Ihre fachlichen Objekte, Lebenszyklen und Datenbanken bleiben unterscheidbar.
+Relationship Management und Content Hub werden im gemeinsamen Cockpit
+über ihre Arbeitsbedarfe zusammengeführt. Ihre fachlichen Objekte,
+Lebenszyklen und Datenbanken bleiben unterscheidbar.
 
-Eine gemeinsame Cockpit-Darstellung rechtfertigt weder zusätzliche gemeinsame Properties noch die Verschmelzung fachlich unterschiedlicher Objekte.
+Eine gemeinsame Cockpit-Darstellung rechtfertigt weder zusätzliche
+gemeinsame Properties noch die Verschmelzung fachlich unterschiedlicher
+Objekte.
 
-### DR-38 – Navigation unterstützt das Cockpit, dominiert es aber nicht
+### DR-38 -- Navigation unterstützt das Cockpit, dominiert es aber nicht
 
-Das Cockpit darf kompakte Zugänge zu häufig benötigten Fachbereichen, Datenbanken oder Fach-Views enthalten. Navigation bleibt jedoch eine unterstützende Funktion. Der Schwerpunkt liegt auf aktuellen Arbeits- und Entscheidungsbedarfen.
+Das Cockpit darf kompakte Zugänge zu häufig benötigten Fachbereichen,
+Datenbanken oder Fach-Views enthalten. Navigation bleibt jedoch eine
+unterstützende Funktion. Der Schwerpunkt liegt auf aktuellen Arbeits-
+und Entscheidungsbedarfen.
 
-### DR-39 – Das Cockpit verwendet verlinkte Sichten vorhandener Datenbanken
+### DR-39 -- Das Cockpit verwendet verlinkte Sichten vorhandener Datenbanken
 
-Das gemeinsame Cockpit ist eine normale Notion-Seite. Operative Inhalte werden durch verlinkte Sichten (Linked Views) vorhandener Datenbanken eingebunden. Es entsteht keine eigene Cockpit-Datenbank und es werden keine Datensätze für das Cockpit dupliziert.
+Das gemeinsame Cockpit ist eine normale Notion-Seite. Operative Inhalte
+werden durch verlinkte Sichten (Linked Views) vorhandener Datenbanken
+eingebunden. Es entsteht keine eigene Cockpit-Datenbank und es werden
+keine Datensätze für das Cockpit dupliziert.
 
-Die Cockpit-Sicht ist ein eigener Nutzungskontext derselben Daten und darf gegenüber einer bestehenden Fach-View weiter reduziert oder anders gefiltert, sortiert und dargestellt werden.
+Die Cockpit-Sicht ist ein eigener Nutzungskontext derselben Daten und
+darf gegenüber einer bestehenden Fach-View weiter reduziert oder anders
+gefiltert, sortiert und dargestellt werden.
 
-> **Fach-Views dienen der detaillierten Arbeit in einer Datenbank; Cockpit-Views dienen der übergreifenden Orientierung und dem Einstieg in die Arbeit.**
+> **Fach-Views dienen der detaillierten Arbeit in einer Datenbank;
+> Cockpit-Views dienen der übergreifenden Orientierung und dem Einstieg
+> in die Arbeit.**
 
-### DR-40 – Das Cockpit beginnt minimal und wächst nur aus Nutzung
+### DR-40 -- Das Cockpit beginnt minimal und wächst nur aus Nutzung
 
-Die erste Cockpit-Version enthält nur die Sichten, deren Arbeitsfragen bereits eindeutig und wiederkehrend sind. Weitere Sichten, Kennzahlen, Charts, Widgets oder Navigationselemente werden erst ergänzt, wenn ihre praktische Nutzung einen wiederkehrenden Bedarf belegt.
+Die erste Cockpit-Version enthält nur die Sichten, deren Arbeitsfragen
+bereits eindeutig und wiederkehrend sind. Weitere Sichten, Kennzahlen,
+Charts, Widgets oder Navigationselemente werden erst ergänzt, wenn ihre
+praktische Nutzung einen wiederkehrenden Bedarf belegt.
 
-Insbesondere werden Fachkataloge und Kennzahlen nicht allein deshalb auf der Startseite dargestellt, weil sie verfügbar sind.
+Insbesondere werden Fachkataloge und Kennzahlen nicht allein deshalb auf
+der Startseite dargestellt, weil sie verfügbar sind.
 
-> **Das Cockpit wird nicht auf Vollständigkeit, sondern auf geringe Reibung optimiert.**
+> **Das Cockpit wird nicht auf Vollständigkeit, sondern auf geringe
+> Reibung optimiert.**
 
-## 3.1 Festgelegter Inhalt des gemeinsamen Cockpits – Startversion
+## 3. Festgelegter Inhalt des gemeinsamen Cockpits -- Startversion
 
-Die erste Version des gemeinsamen RM/C-H-Cockpits ist bewusst minimalistisch. Sie beantwortet drei unterschiedliche wiederkehrende Arbeitsfragen.
+Die erste Version des gemeinsamen RM/C-H-Cockpits ist bewusst
+minimalistisch. Sie beantwortet drei unterschiedliche wiederkehrende
+Arbeitsfragen.
 
-| Arbeitsdimension | Wiederkehrende Arbeitsfrage | Datenbank / Ausgangssicht | Cockpit-Inhalt |
-| --- | --- | --- | --- |
-| Handeln | Was muss ich in absehbarer Zeit konkret tun? | Aufgaben – `Diese / nächste Woche` | kompakte verlinkte Sicht der anstehenden Aufgaben |
-| Steuern | Welche geschäftlichen Vorhaben laufen und benötigen Aufmerksamkeit? | Vorgänge – `Aktiv` | kompakte verlinkte Sicht der aktiven Vorgänge |
-| Entscheiden | Welche Ideen benötigen eine fachliche Entscheidung? | Ideen – `In Entscheidung` | kompakte verlinkte Sicht der Ideen in Entscheidung |
+  --------------------------------------------------------------------------------
+  Arbeitsdimension   Wiederkehrende    Datenbank / Ausgangssicht Cockpit-Inhalt
+                     Arbeitsfrage                                
+  ------------------ ----------------- ------------------------- -----------------
+  Handeln            Was muss ich in   Aufgaben --               kompakte
+                     absehbarer Zeit   `Diese / nächste Woche`   verlinkte Sicht
+                     konkret tun?                                der anstehenden
+                                                                 Aufgaben
+
+  Steuern            Welche            Vorgänge -- `Aktiv`       kompakte
+                     geschäftlichen                              verlinkte Sicht
+                     Vorhaben laufen                             der aktiven
+                     und benötigen                               Vorgänge
+                     Aufmerksamkeit?                             
+
+  Entscheiden        Welche Ideen      Ideen --                  kompakte
+                     benötigen eine    `In Entscheidung`         verlinkte Sicht
+                     fachliche                                   der Ideen in
+                     Entscheidung?                               Entscheidung
+  --------------------------------------------------------------------------------
 
 Empfohlene Grundstruktur:
 
@@ -499,11 +603,22 @@ Content / Entscheidungen
 └─ Ideen – In Entscheidung
 ```
 
-Die übrigen bereits vorhandenen dauerhaften Fach-Views bleiben in ihren jeweiligen Datenbanken verfügbar. Insbesondere werden `Kalender`, `Zeitleiste`, `Nach Vorgang`, `Nach Status`, `Offene Ideen`, `Aktive Content-Vorhaben`, `Aktive Content-Assets`, `Veröffentlichungsplanung` sowie die Views der Fachkataloge nicht automatisch in das Cockpit übernommen.
+Die übrigen bereits vorhandenen dauerhaften Fach-Views bleiben in ihren
+jeweiligen Datenbanken verfügbar. Insbesondere werden `Kalender`,
+`Zeitleiste`, `Nach Vorgang`, `Nach Status`, `Offene Ideen`,
+`Aktive Content-Vorhaben`, `Aktive Content-Assets`,
+`Veröffentlichungsplanung` sowie die Views der Fachkataloge nicht
+automatisch in das Cockpit übernommen.
 
-Für `Aktive Content-Vorhaben`, `Aktive Content-Assets` und `Veröffentlichungsplanung` bleibt ausdrücklich offen, ob sich aus der Nutzung eine zusätzliche wiederkehrende Cockpit-Frage ergibt. Die konkrete Content-Arbeit ist bereits über Aufgaben sichtbar; zusätzliche Content-Sichten sollen daher nur aufgenommen werden, wenn sie eine eigenständige Steuerungsfrage beantworten und nicht lediglich denselben Arbeitszusammenhang mehrfach darstellen.
+Für `Aktive Content-Vorhaben`, `Aktive Content-Assets` und
+`Veröffentlichungsplanung` bleibt ausdrücklich offen, ob sich aus der
+Nutzung eine zusätzliche wiederkehrende Cockpit-Frage ergibt. Die
+konkrete Content-Arbeit ist bereits über Aufgaben sichtbar; zusätzliche
+Content-Sichten sollen daher nur aufgenommen werden, wenn sie eine
+eigenständige Steuerungsfrage beantworten und nicht lediglich denselben
+Arbeitszusammenhang mehrfach darstellen.
 
-## 3. Kurzfassung der Entscheidungslogik
+## 4. Kurzfassung der Entscheidungslogik
 
 Bei neuen Modell-, UI- oder Template-Anforderungen wird in dieser
 Reihenfolge geprüft:
@@ -534,30 +649,33 @@ realisierbar:
 > **Nicht nachbauen → Einschränkung akzeptieren → Arbeitsweise
 > konzeptionell anpassen.**
 
-## 4. Änderungen gegenüber v0.4
+## 5. Abschlussstand und Nutzungsphase
 
-Version 0.5 übernimmt den Stand von v0.4 und konkretisiert die Rolle von Views als Arbeits- und UI-Schicht des Notion-Systems.
+Mit Version 1.0 ist die Konzeptions- und Aufbauphase für Seitenlayouts,
+Templates, Views, UI und das gemeinsame Cockpit von Relationship
+Management und Content Hub abgeschlossen.
 
-- **DR-08 wurde geschärft:** Views bilden Arbeits- und Auswertungsperspektiven auf dieselben fachlichen Datensätze; sie verändern das Datenmodell nicht.
-- **DR-30:** Dauerhafte Views werden nur für konkrete, wiederkehrende Arbeitsfragen eingerichtet; einmalige Auswertungen bleiben temporär.
-- **DR-31:** Filter, Sortierung, Gruppierung und sichtbare Properties werden aus dem Arbeitszweck der View abgeleitet.
-- **DR-32:** Die Darstellungsform einer View folgt der Arbeitsfrage und nicht dem Wunsch nach visueller Variation.
-- **DR-33:** Views werden dort bereitgestellt, wo die jeweilige Arbeit stattfindet; Linked Views dienen insbesondere der Einbindung in Cockpits und andere Arbeitskontexte.
+Die Design-Regeln DR-01 bis DR-40 bilden den verbindlichen Ausgangsstand
+für die Nutzung. Ab dem 14.09.2026 beginnt eine Nutzungsphase. In dieser
+Phase wird das System nicht vorsorglich weiter ausgebaut. Änderungen
+werden aus konkreten Beobachtungen der tatsächlichen Arbeit abgeleitet.
 
-Damit gilt für die View-Konzeption als Leitprinzip:
+Dabei gilt insbesondere:
 
-> **Wenige dauerhafte Views für wiederkehrende Arbeitsfragen; einmalige Auswertungen können temporär erzeugt werden.**
+-   bestehende Strukturen werden zunächst praktisch genutzt und
+    beobachtet,
+-   neue Properties, Views, Templates, Cockpit-Elemente oder
+    Automationen benötigen einen nachgewiesenen wiederkehrenden Bedarf,
+-   regelmäßig ungenutzte oder störende UI-Elemente dürfen vereinfacht
+    oder entfernt werden,
+-   einmalige Sonderfälle führen nicht automatisch zu einer dauerhaften
+    Modell- oder UI-Erweiterung,
+-   fachliche Grundstrukturen werden nur geändert, wenn die Nutzung
+    einen tatsächlichen Modellierungsbedarf zeigt.
 
+> **Die Nutzungsphase dient nicht dem weiteren Ausbau auf Verdacht,
+> sondern der Validierung des bestehenden Systems durch reale Arbeit.**
 
-## 5. Änderungen gegenüber v0.5
-
-Version 0.6 ergänzt den Regelrahmen um die Konzeption des gemeinsamen Cockpits für Relationship Management und Content Hub.
-
-- **DR-34:** Cockpit als operative Einstiegsebene.
-- **DR-35:** Cockpit-Inhalte werden aus wiederkehrenden Arbeitsfragen abgeleitet.
-- **DR-36:** Cockpit verdichtet und führt zur Facharbeit weiter.
-- **DR-37:** Integration der Arbeit ohne Verschmelzung der Fachmodelle.
-- **DR-38:** Navigation bleibt unterstützend.
-- **DR-39:** Technischer Aufbau mit Linked Views vorhandener Datenbanken; keine Cockpit-Datenbank und keine Datenkopien.
-- **DR-40:** Minimalistische Startversion; Erweiterungen nur aus tatsächlicher Nutzung.
-- Zusätzlich wird die erste Cockpit-Belegung mit den drei Arbeitsfragen **Handeln**, **Steuern** und **Entscheiden** festgelegt.
+Version 1.0 ist damit die Schlussversion der Design-Dokumentation für
+die abgeschlossene Aufbauphase. Spätere Änderungen werden als neue
+Revisionen auf Basis dokumentierter Nutzungserfahrungen geführt.
