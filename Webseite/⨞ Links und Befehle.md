@@ -227,5 +227,9 @@ git add .
 git commit -m "Neue Blogbeiträge ergänzt"
 
 # 7. Auf GitHub sichern
-git push
+git push -- Fuehrt ein Buld auf GitHub
 ```
+
+Eventuell
+git pull --rebase
+git push
