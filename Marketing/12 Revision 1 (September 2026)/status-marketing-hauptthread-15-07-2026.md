@@ -170,12 +170,12 @@ Sechs Keywords (Wortgruppen-Match): "Mediator Dresden Erbstreit", "Mediation Pfl
 - LinkedIn-Engagement-Fokus-Liste IT-DL Sachsen (Juni 2026, abgeschlossen): systematische DM-Kampagne an 14 Personen (12 Lecos/KISA-Kontakte, 2 Mediator-Kolleginnen), Geltungsdauer KW 23-35, ohne Resonanz beendet. Zentrale Erkenntnis daraus - "Reputation wird nicht über LinkedIn-Engagement aufgebaut, sondern über Substanz-Demonstration und Silent Conversions" - hat sich in der September-Revision empirisch bestätigt (Kernaussage 5: IT-DL-Kontakte unter 2% der tatsächlichen LinkedIn-Demografie).
 
 **Aktive institutionelle Vorgänge** (im RMCH erfasst, unabhängig von Content-Priorisierung)
-- PflegeNetz Dresden (aktiv, vielversprechend, direkter Kontakt zur Referentin)
-- Landwirtschaft/Hofübergabe als Zugangsweg
-- Wohnungswirtschaft/Nachbarschaftskonflikte als Zugangsweg
-- Personalvertretungen und Personalstellen/HR als Zugangswege (Beziehungsarbeit, unabhängig von der Content-Schwäche des Themenfelds)
-- Pflegeberatungsstellen, weitere Pflege-Bedarfsorte
-- BMEV-Fachgruppen (Elder Mediation)
+- ==PflegeNetz Dresden (aktiv, vielversprechend, direkter Kontakt zur Referentin)==
+- ==Landwirtschaft/Hofübergabe als Zugangsweg==
+- ==Wohnungswirtschaft/Nachbarschaftskonflikte als Zugangsweg==
+- ==Personalvertretungen und Personalstellen/HR als Zugangswege (Beziehungsarbeit, unabhängig von der Content-Schwäche des Themenfelds)==
+- ==Pflegeberatungsstellen, weitere Pflege-Bedarfsorte==
+- ==BMEV-Fachgruppen (Elder Mediation)==
 
 **Zielgruppen und Personas**
 Privatpersonen 50+: Markus, Sabine, Lisa. B2B: Martina, Andreas, KMU, öffentlicher Dienst (ab 1.11.2027 verfügbar). Laut Schritt-4-Entscheidung bleiben Personas informelles narratives Hintergrundmaterial, keine eigene RMCH-Struktur - die Themenfeld-Ebene deckt die aktuell relevante Unterscheidung (Privat vs. B2B) bereits ab.
