@@ -32,6 +32,7 @@
 - **18.09.** - Video-Post "Das Erbe ist geregelt"
 - **21.09. (Mo)** - Beitrag 3 "Mediation kann keinen Bedarf erzeugen"
 - **22.09.** - Emotionaler Post 7 "35 Verwaltungsjahre"
+- **23.09.** - Blog-Spoiler "Die schwierigste Frage einer Klientin"
 - **28.09. (Mo)** - Beitrag 4 "Der Referatsleiter ruft nicht den Mediator an"
 - **29.09** - Text-Post (Blog-Spiler) Was in mir arbeitet, wenn eine Mediation scheitert
 - **05.10. (Mo)** - Beitrag 5 "LinkedIn verkauft vielleicht nicht. Es legitimiert."
