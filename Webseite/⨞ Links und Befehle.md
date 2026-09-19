@@ -1,9 +1,13 @@
 
-Links
+## Links
 
 Midjourney - https://www.midjourney.com/imagine
 
-Befehle
+## Befehle
+
+`hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache`
+`hugo -D --gc --minify --cleanDestinationDir`
+
 hugo new content [path] [flags] 
 
 set HUGO_ENV='production'
@@ -22,7 +26,6 @@ $Env:HUGO_ENV = "development"
 Get-ChildItem Env:
 
 hugo new content post/change.md
-
 
 hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache
 

@@ -3298,3 +3298,6 @@ Lehrtaetigkeit (an Ausbildungsinstituten):
 _Masterplan v4 - 1. Juni 2026 - Dr. Swetoslaw Beltschew - Mediator · Coach · systemischer Berater_
 
 _Standalone-Dokument · enthaelt alle Aspekte der Marketing-Strategie · ersetzt v3 vollstaendig · sequentielle Drei-Saeulen-Implementierung pro Marketing-Seite · INKOVEMA verworfen · SEO-Recovery durch kontrollierte substantielle Aufwertung_
+
+[[⚠️nachtrag-masterplan-v4-abgleich]]
+[[⚠️ status-marketing-hauptthread-16-09-2026]]
