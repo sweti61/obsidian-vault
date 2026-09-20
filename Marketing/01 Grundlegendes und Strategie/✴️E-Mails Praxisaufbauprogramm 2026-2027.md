@@ -10,7 +10,7 @@ tags:
   - kollegen
 status: draft
 date: 2026-04-27
-verbunden_mit: "[[⨞ Masterplan v2 2026 März]]"
+verbunden_mit: "[[Masterplan v2 2026 März]]"
 empfaenger:
   - persönliches Netzwerk
   - Multiplikatoren

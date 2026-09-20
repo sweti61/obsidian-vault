@@ -12,7 +12,7 @@ tags:
 status: aktiv
 date: 2026-04-27
 verbunden_mit:
-  - "[[⨞ Masterplan v2 2026 März]]"
+  - "[[Masterplan v2 2026 März]]"
 zeitraum: Mai 2026 – Oktober 2026 (6 Monate, kontrollierte Schritte)
 ziel: Marketing-Seiten in den Index, Fachblog aus dem SEO-Wettbewerb herausnehmen, Klassifikation der Site neu prägen
 ---

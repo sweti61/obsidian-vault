@@ -7,7 +7,7 @@ tags:
   - brevo
 status: aktiv – korrigierte Fassung
 date: 2026-04-27
-verbunden_mit: "[[⨞ Masterplan v2 2026 März]]"
+verbunden_mit: "[[Masterplan v2 2026 März]]"
 trigger: Download Lead-Magnet 1 'In Ruhe sprechen, auch wenn es schwer ist' über Formspree
 versand: automatisiert über Brevo (oder vergleichbares Tool)
 sequenz_dauer: 12 Tage

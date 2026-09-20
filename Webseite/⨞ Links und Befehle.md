@@ -58,6 +58,11 @@ hugo --templateMetrics --templateMetricsHints
 hugo -D -- gc --environment production  --minify --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache --baseURL "https://mediator.sweti.de"
 
 
+### Mit löschen von /public/
+Remove-Item .\public -Recurse -Force
+hugo --gc --minify
+Get-Content .\public\robots.txt
+
 C:\Users\Sweti\AppData\Local\Microsoft\WinGet\Packages\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe
 
 # Suchbefehle:

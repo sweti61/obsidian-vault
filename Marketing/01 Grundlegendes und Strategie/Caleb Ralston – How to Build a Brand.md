@@ -12,7 +12,7 @@ status: abgeschlossen
 quelle: Caleb Ralston – How to Build a Brand (6h Videokurs, Februar 2025)
 kuratiert_fuer: Dr. Swetoslaw Beltschew, Mediator Dresden
 date: 2026-04-26
-verbunden_mit: "[[⨞ Masterplan v2 2026 März]]"
+verbunden_mit: "[[Masterplan v2 2026 März]]"
 ---
 # Caleb Ralston – How to Build a Brand
 
