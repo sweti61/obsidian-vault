@@ -6,7 +6,11 @@ Midjourney - https://www.midjourney.com/imagine
 ## Befehle
 
 `hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache`
-`hugo -D --gc --minify --cleanDestinationDir`
+`hugo -D --.gc --minify --cleanDestinationDir`
+
+´`noch besser:`
+`Remove-Item -Recurse -Force public`
+`hugo --gc --minify`
 
 hugo new content [path] [flags] 
 
