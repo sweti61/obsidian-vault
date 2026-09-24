@@ -33,6 +33,8 @@ hugo new content post/change.md
 
 hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache
 
+hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache
+
 hugo server --baseURL "https://mediator.sweti.de" --appendPort=false
 
 hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --bind=0.0.0.0 --baseURL=http://192.168.2.121:1313
