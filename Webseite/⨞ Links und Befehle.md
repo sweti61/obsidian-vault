@@ -6,7 +6,7 @@ Midjourney - https://www.midjourney.com/imagine
 ## Befehle
 
 `hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache`
-`hugo -D --.gc --minify --cleanDestinationDir`
+`hugo -D --gc --minify --cleanDestinationDir`
 
 ´`noch besser:`
 `Remove-Item -Recurse -Force public`
@@ -65,6 +65,7 @@ Remove-Item .\public -Recurse -Force
 hugo --gc --minify
 Get-Content .\public\robots.txt
 
+## ???
 C:\Users\Sweti\AppData\Local\Microsoft\WinGet\Packages\Hugo.Hugo.Extended_Microsoft.Winget.Source_8wekyb3d8bbwe
 
 # Suchbefehle:

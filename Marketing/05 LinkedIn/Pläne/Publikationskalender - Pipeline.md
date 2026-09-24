@@ -34,9 +34,15 @@
 - **22.09.** - Emotionaler Post 7 "35 Verwaltungsjahre"
 - **23.09.** - Blog-Spoiler "Die schwierigste Frage einer Klientin"
 - **28.09. (Mo)** - Beitrag 4 "Der Referatsleiter ruft nicht den Mediator an"
-- **29.09** - Text-Post (Blog-Spiler) Was in mir arbeitet, wenn eine Mediation scheitert
+- **29.09** - *Text-Post* (Blog-Spiler) Was in mir arbeitet, wenn eine Mediation scheitert
 - **05.10. (Mo)** - Beitrag 5 "LinkedIn verkauft vielleicht nicht. Es legitimiert."
 - **06.10 -** Text-Post (Blog-Spoiler, Ohne Bild mit Link)  Warum ich manchmal in einer Verhandlung schweige
 - **12.10. (Mo)** - Beitrag 6 "Vielleicht sprechen wir mit den Falschen"
+- **13.10** - *Text-Post* (Blog-Spoiler, Ohne Bild mit Link) Was mir die 35 Jahre Verwaltung gegeben haben – was Mediation nicht ersetzen könnte
 - **19.10. (Mo)** - Beitrag 7 "Wo der Funnel doch funktioniert"
 - **26.10. (Mo)** - Beitrag 8 "Die eigentliche Akquisefrage"
+- **28.10.** - "Wann Mediation sinnvoll ist"
+- **02.10 (Mo)**
+- **04.11.** - "Was eine Mediation kostet"
+- **06.10 (Mo)**
+- **11.11.** - "Was Mediation nicht leisten kann"
