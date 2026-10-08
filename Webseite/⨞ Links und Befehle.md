@@ -31,6 +31,7 @@ Get-ChildItem Env:
 
 hugo new content post/change.md
 
+hugo server --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache
 hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache
 
 hugo server -D --cleanDestinationDir --disableFastRender --noHTTPCache --ignoreCache
