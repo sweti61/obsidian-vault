@@ -133,6 +133,11 @@ git status
 
 ---
 
+## **2.5. rebase**
+ ```git pull --rebase```
+
+---
+
 ## 🧾 **3️⃣ Neue oder geänderte Dateien zum Commit vormerken**
 
 Alle neuen / bearbeiteten / gelöschten Dateien aufnehmen:
@@ -147,12 +152,7 @@ git add .
 
 ---
 
- ## **3.5. rebase**
- ```git pull --rebase```
-
----
-
-## 💬 **4️⃣ Änderungen committen (lokal speichern)**
+ ## 💬 **4️⃣ Änderungen committen (lokal speichern)**
 
 ```powershell
 git commit -m "Blogartikel aktualisiert / Inhalte ergänzt"
