@@ -147,6 +147,11 @@ git add .
 
 ---
 
+ ## **3.5. rebase**
+ ```git pull --rebase```
+
+---
+
 ## 💬 **4️⃣ Änderungen committen (lokal speichern)**
 
 ```powershell

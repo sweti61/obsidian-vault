@@ -41,8 +41,9 @@
 - **13.10** - *Text-Post* (Blog-Spoiler, Ohne Bild mit Link) Was mir die 35 Jahre Verwaltung gegeben haben – was Mediation nicht ersetzen könnte
 - **19.10. (Mo)** - Beitrag 7 "Wo der Funnel doch funktioniert"
 - **26.10. (Mo)** - Beitrag 8 "Die eigentliche Akquisefrage"
-- **28.10.** - "Wann Mediation sinnvoll ist"
+- **27.10.** - "Wann Mediation sinnvoll ist"
+- **28.10.** - *Text-Post* (Blog Spoiler) "der Nachhall"
 - **02.10 (Mo)**
 - **04.11.** - "Was eine Mediation kostet"
-- **06.10 (Mo)**
+- **06.11 (Mo)**
 - **11.11.** - "Was Mediation nicht leisten kann"
