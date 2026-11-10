@@ -23,7 +23,7 @@ set HUGO_ENV=development&& hugo server
 hugo server -D
 hugo server -D --cleanDestinationDir --disableFastRender
 
-hugo -D--gc --cleanDestinationDir  --environment="production"
+hugo -D --gc --cleanDestinationDir  --environment="production"
 
 **PowerShell**
 $Env:HUGO_ENV = "development"
