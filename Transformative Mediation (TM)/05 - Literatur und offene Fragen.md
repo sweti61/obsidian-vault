@@ -1,3 +1,5 @@
+> Aktualisierung: Folge #4 liegt inzwischen mit regulärem Gesprächsabschluss vor. Ältere Hinweise auf einen fehlenden Rest sind überholt. Siehe [[09 - Vollständige Folge Nr4]] und [[01 - Studienplan]].
+
 # Literatur und offene Fragen
 
 Zurück: [[00 - Transformative Mediation]]
@@ -61,3 +63,12 @@ Kein deutsches Buch und kein Ersatz für dessen gesamte Darstellung. Kleine ausg
 ## Weitere eigene Fragen
 - 
 
+
+## Ergänzung vom 16.11.2026
+Die offizielle BM-Materialsammlung, sechs Video-Direktlinks und zwei weitere deutsche Hartwig-Aufsätze sind in [[06 - BM-Fachgruppe und Videos]] verzeichnet.
+
+## Vorliegende Podcast-Teiltranskripte
+Nr4.txt und Nr 20.txt, bereitgestellt am 16.11.2026. Jeweils nur erste 30 Minuten; automatische Erkennung, ohne Zeitmarken oder sichere Sprecherlabels. Auswertung und Suchanker: [[07 - Podcast-Transkripte Nr4 und Nr20]]. Quellenkopien im Unterordner Quellen bleiben unverändert.
+
+## Aktueller Quellenstand nach zweiter Lieferung
+#20 jetzt in längerer Fassung mit Schluss; #21 und #170 ebenfalls mit Schluss. Nur #4 bleibt ein 30-Minuten-Teiltranskript. Einzelheiten: [[08 - Podcast-Auswertung Nr20 Nr21 Nr170]].

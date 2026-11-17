@@ -1,61 +1,71 @@
-# Studienplan
+# Studienplan – Arbeitsfassung mit vier Podcastquellen
 
-Zurück: [[00 - Transformative Mediation]]
-Umfang: vier Wochen × 120 Minuten. Jeweils auch als zwei Einheiten à 60 Minuten möglich. Kein Buchkauf erforderlich.
+Vier Wochen × 120 Minuten, insgesamt acht Stunden. Beginn flexibel. Die ausgewählten Leseabschnitte ersetzen bisherige Medienaufträge. Die vollständige Lektüre aller Transkripte ist kein Pflichtpensum. Videos bleiben zusätzliche Vertiefungsmöglichkeiten.
 
-## Materialbasis
-Das [deutschsprachige Gespräch Hartwig/Metzger](https://www.mediationsausbildung.de/impulse/transformative-mediation-mit-christian-hartwig) ist der Einstieg. Es ist eine Darstellung der Praxis durch einen Vertreter des Ansatzes, kein vollständiger Lehrgang.
+## Quellenstand
+- **#4, Christian Hartwig:** Nr 4(1).txt – neue Fassung mit regulärem Gesprächsabschluss. Ersetzt den früheren 30-Minuten-Ausschnitt. Grundlage für TM.
+- **#20, Tilman Metzger:** Nr 20(1).txt – längere neue Fassung mit Gesprächsabschluss; ersetzt den bisherigen 30-Minuten-Ausschnitt als Arbeitsquelle.
+- **#21, Tilman Metzger:** Nr 21.txt – mit Gesprächsabschluss; Einordnung von Klärungshilfe, Rollenverständnis und Diskussion über Freiwilligkeit.
+- **#170, Kirsten Schroeter / Tilman Metzger:** Nr 170.txt – mit Gesprächsabschluss; kontroverser Vergleich interessenorientierter Mediation und Klärungshilfe im Organisationskontext.
 
-Der [freie Aufsatz von Hösl](https://www.mediation-transformativ.de/wp-content/uploads/2019/12/Publikation-2011-Das-Potential-der-Transformativen-Mediation.pdf) dient als ergänzende Vergleichsposition. Er weicht im Vorgehen teilweise von Bush/Folger ab. Nicht beide Positionen zu einem vermeintlich einheitlichen Modell vermischen.
+#4, #20, #21 und #170 erscheinen anhand ihrer Abschlüsse vollständig; ein Abgleich mit der gesamten jeweiligen Tonaufnahme ist nicht erfolgt. Alle Texte sind automatische Transkripte ohne Zeitmarken und durchgehend verlässliche Sprecherlabels. Keine minutengenauen Fundstellen erfinden. Kurze Suchanker dienen nur der Textsuche. Bei Namen, Zitaten, unklarer Sprecherzuordnung und strittigen Behauptungen das Audio prüfen.
 
-Ein englischer Originalaufsatz ist im Hochschulrepositorium nachgewiesen; kleine selbst ausgewählte Abschnitte können bei Bedarf sprachlich erschlossen werden. Das ist freiwillig. Kein englischsprachiges Live-Lernen erforderlich. Zugänge und Grenzen: [[05 - Literatur und offene Fragen]].
+## Woche 1 – TM-Haltung und Konfliktverständnis
+**Ziel:** Eigene Klarheit, Handlungsfähigkeit und freiwillige Offenheit für das Gegenüber erläutern.
 
-## Woche 1 – Konfliktverständnis und Haltung
-**Ziel:** Empowerment und Recognition in eigenen Worten erklären und von Zustimmung und Einigung unterscheiden.
+- **35 Minuten:** #4 vom Suchanker „Was macht eine transformative Mediation aus?“ bis zur Frage nach dem Nutzen eines Dritten bearbeiten; Biografie überfliegen.
+- **20 Minuten:** Eigene Zusammenfassung: situativ beeinträchtigte Fähigkeiten statt pauschales Kommunikationsdefizit; Selbstbestimmung auch beim Ablauf; welche Aussagen stammen aus Hartwigs Position?
+- **40 Minuten:** Drei erfundene Familiendialoge analysieren. Beobachtung, Interpretation und mögliche Ansatzpunkte getrennt notieren.
+- **25 Minuten:** Eigene Steuerungsimpulse und zwei offene Fragen festhalten.
 
-- 30 Minuten: Podcast ab dem Abschnitt zum psychologischen Modell (ca. 14:44) und konstruktiven/destruktiven Zyklus hören. Pausieren und notieren.
-- 20 Minuten: [[02 - Begriffe und Grundlagen]] lesen. Zwei eigene Fragen formulieren; Definitionen als vorläufig behandeln.
-- 45 Minuten: Übung 1 aus [[03 - Übungen und Rollenspiele]] bearbeiten: beobachtbare Aussagen von vermuteten inneren Zuständen unterscheiden.
-- 25 Minuten: [[04 - Lernjournal]] ausfüllen. Was zieht mich an TM an? Wo könnte ich den Ansatz idealisieren?
+**Ergebnis:** Eine Seite Arbeitsnotizen, keine allgemeine Wirksamkeitsbehauptung.
 
-**Ergebnis:** Eine halbe bis eine Seite mit eigenen Begriffserklärungen und zwei offenen Fragen.
+## Woche 2 – TM-Interventionen und gezielte Gegenprobe
+**Ziel:** Spiegeln, Check-in, Zusammenfassen und Zurücknehmen in ihrer Absicht unterscheiden.
 
-## Woche 2 – Spiegeln und Zusammenfassen
-**Ziel:** Geäußertes und Ambivalenzen aufgreifen, ohne zusätzliche Bedeutungen einzuführen.
+- **25 Minuten:** #4 ab „Repertoire von vier Techniken“ und gezielt den Schlussteil zum Check-in bei Schweigen lesen; Wiederholungen nur sichten.
+- **15 Minuten:** #20 gezielt die Unterscheidung konventionelles / vertiefendes Doppeln lesen; Suchanker „80 Prozent konventionelles Doppeln“. Prozentangaben als persönlichen Praxisbericht behandeln.
+- **15 Minuten:** Vergleichsblatt: Wer wird angesprochen? Wer bestimmt die nächste Reaktion? Was ist bereits gesagt, was ergänzt die vermittelnde Person?
+- **45 Minuten:** Sechs erfundene Aussagen bearbeiten: Spiegeln, eine Zusammenfassung mit Differenzen, ein offener Check-in, bewusstes Zurücknehmen. Eine Aussage zusätzlich als konventionelles Doppeln formulieren.
+- **20 Minuten:** Zwei Interventionen reflektieren und eine Frage für Fachbegleitung notieren.
 
-- 25 Minuten: Podcastabschnitte zu Wording und Spiegeln auswählen; eigene Formulierungen und Aussagen des Sprechers getrennt notieren.
-- 20 Minuten: Fünf typische eigene Mediationsfragen notieren: Welche davon geben eine Richtung vor?
-- 50 Minuten: Übung 2 aus [[03 - Übungen und Rollenspiele]] bearbeiten. Erst selbst antworten, dann Rückmeldung einholen.
-- 25 Minuten: Zwei überarbeitete Interventionen im Lernjournal kommentieren. Auch einen Moment notieren, in dem ich zunächst Raum lassen würde.
+**Ergebnis:** Kommentierte Formulierungen mit erkennbarer Absicht.
 
-**Ergebnis:** Kommentierte Beispiele, keine Sammlung vermeintlich immer richtiger Sätze.
+## Woche 3 – Klärungshilfe differenziert verstehen
+**Ziel:** Emotionale Vertiefung und professionelle Prozessführung vergleichen, ohne Ansätze zu karikieren.
 
-## Woche 3 – Prozessentscheidungen und Abgrenzung
-**Ziel:** Eigene Steuerungsimpulse erkennen und TM von Klärungshilfe unterscheiden.
+- **30 Minuten:** #20 ausgewählte Abschnitte lesen: vier Bedeutungsebenen; Bereitschaft zur inneren Not; Dialogisieren; Erklärungshaus. Suchanker: „vier Bedeutungsebenen“, „nur Klarheit verspricht“, „was sagen Sie dazu“, „Das ist das Erklärungshaus“.
+- **15 Minuten:** #21 den Abschnitt zum Meta-Modell und zur Einordnung der TM lesen. Suchanker „Nadja Alexander“; bei „Biomigration“ an fehlerhaft erkannte BIO-Mediation denken.
+- **20 Minuten:** Drei Varianten derselben erfundenen Aussage vergleichen: TM-Spiegelung, konventionelles Doppeln, vertiefendes Doppeln. Dazu eine kurze Klärungshilfe-Zusammenfassung von einer eigenen Erklärungshypothese unterscheiden.
+- **35 Minuten:** Kurzes Rollenspiel; anschließend prüfen, wann ich den direkten Dialog einlade, emotional vertiefe oder einen Deutungsrahmen anbiete.
+- **20 Minuten:** Mein vorläufiges Rollenverständnis und eine noch offene Grenze formulieren.
 
-- 25 Minuten: Podcast ab 26:39 hören; Aussagen zur Abgrenzung prüfen.
-- 20 Minuten: Hösls Aufsatz gezielt auf seine Unterschiede zu Bush/Folger lesen. Falls die Lektüre länger braucht, nur Einleitung und die entsprechenden Passagen bearbeiten.
-- 50 Minuten: Übung 3 durchführen: Themenwechsel, Schweigen und die Bitte um eine Lösung.
-- 25 Minuten: Einen Gesprächsmoment in zwei Varianten beschreiben: Was würde ich in TM tun? Was in Klärungshilfe? Welche Entscheidung übernehme ich jeweils?
+**Ergebnis:** Vergleichsnotiz. Doppeln ist nicht immer zusätzliche Interpretation; eine Klärungshilfe-Zusammenfassung ist nicht automatisch ein Erklärungsmodell. Auch Klärungshilfe zielt nicht zwingend auf Harmonie.
 
-**Ergebnis:** Kurze Vergleichsnotiz und ein persönlicher Übungsschwerpunkt.
+## Woche 4 – Kontroverse, Selbstbestimmung und Transfer
+**Ziel:** Eigene Position im Vergleich schärfen und in einem TM-Rollenspiel erproben.
 
-## Woche 4 – Zusammenhängend üben und bilanzieren
-**Ziel:** Wahrnehmung, Haltung und Interventionen in einem längeren simulierten Verlauf verbinden.
+- **25 Minuten:** #170 ausgewählte Passagen zu Grundannahmen, Umgang mit Gefühlen, Klärungstiefe und Kontext lesen. Suchanker „nicht so scharf formulieren“, „kein normatives Muss“, „schmutzige Wäsche“, „Stilfrage“. Aussagen jeweils einer Position zuordnen; unklare Zuordnung markieren.
+- **15 Minuten:** #21 und #170 zur Freiwilligkeit vergleichen. Unterscheiden: informiertes Entscheiden, bloße Anwesenheit, Bereitschaft zu sprechen, Einverständnis zur emotionalen Vertiefung und Beendigung. Aussagen aus den älteren Podcasts als Diskussionspositionen behandeln, nicht als geprüfte aktuelle Rechtsauskunft.
+- **40 Minuten:** Zusammenhängendes schriftliches TM-Rollenspiel in einem erfundenen Familienkonflikt. Keine automatische Einigung.
+- **25 Minuten:** Drei Stellen auswerten: Was wollten die Beteiligten? Was wollte ich? Welche Entscheidung habe ich übernommen? Welche Alternative hätte ich?
+- **15 Minuten:** Bilanz: zwei Fortschritte, zwei Unsicherheiten und ein nächster Schritt.
 
-- 15 Minuten: Bisherige Notizen lesen und einen Schwerpunkt auswählen.
-- 45 Minuten: Übung 4 als zusammenhängendes schriftliches Rollenspiel durchführen.
-- 35 Minuten: Drei Gesprächsstellen auswerten: Beobachtung, Absicht, simulierte Reaktion, mögliche Alternative.
-- 25 Minuten: Lernbilanz im Lernjournal schreiben: zwei Fortschritte, zwei Unsicherheiten, ein nächster Schritt.
+**Ergebnis:** Persönliche Lernbilanz mit konkreten Fragen an Hartwig oder die Fachgruppe.
 
-**Ergebnis:** Persönlicher Bedarf für Übungsgruppe oder TM-spezifische Fachbegleitung.
+## Durchgehende Prüffragen
+- Stütze ich meine Aussage auf den Text, auf Vorwissen oder auf eine eigene Vermutung?
+- Ist eine Behauptung Selbstdarstellung einer Schule oder unabhängiger Befund?
+- Ist meine Intervention präzise oder fügt sie Bedeutung hinzu?
+- Können Beteiligte tatsächlich korrigieren, ablehnen und den nächsten Schritt mitbestimmen?
+- Verwechsle ich „transformative Wirkung“ mit dem TM-Modell nach Bush/Folger?
+- Übertrage ich Organisationshierarchie unbemerkt auf freiwillige Familiengespräche?
 
-## Falls Literaturzugang gelingt
-Das Buch oder den deutschen Fachaufsatz ergänzend heranziehen. Innerhalb des Zeitbudgets ersetzen passende Lesepassagen einen Teil des Podcasts; die Übungszeit möglichst erhalten. Kapitel und Seiten erst nach Einsicht in die tatsächlich verfügbare Ausgabe festlegen.
+## Nicht Teil des Pflichtpensums
+Vollständige Lektüre sämtlicher Folgen, alle BM-Videos, weitere Theorie zum Erklärungshaus und detaillierte juristische Prüfung. Diese Punkte können nach dem Monat vertieft werden.
 
-## Abschluss
-- [ ] Vier Wochen bearbeitet
-- [ ] Lernjournal geführt
-- [ ] Quellenfragen gekennzeichnet
-- [ ] Nächsten Lernschritt im RMCH dokumentiert
+## Noch offen
+Alle vier Folgen liegen jetzt als offenbar vollständige Transkripte vor. Audioabgleich und ggf. Transkripte mit Sprecherzuordnung bzw. Zeitmarken wären hilfreich, sind aber keine Voraussetzung für diesen Lernmonat. Schriftliche Chatübungen ersetzen keine fachkundige Beobachtung realer Gesprächsführung.
 
+## Ergänzte Wochenaufträge
+Die Präzisierungen in [[09 - Vollständige Folge Nr4]] gelten innerhalb der bestehenden Zeitblöcke und haben bei Abweichungen Vorrang.

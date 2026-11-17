@@ -1,3 +1,5 @@
+> Aktualisierung: Folge #4 liegt inzwischen mit regulärem Gesprächsabschluss vor. Ältere Hinweise auf einen fehlenden Rest sind überholt. Siehe [[09 - Vollständige Folge Nr4]] und [[01 - Studienplan]].
+
 # Transformative Mediation (TM)
 
 Persönlicher Lernbereich von Sweti. Vier Wochen, zwei Stunden pro Woche, insgesamt acht Stunden. Beginn flexibel mit der ersten Lerneinheit.
@@ -44,3 +46,9 @@ Stand: 16.11.2026.
 
 ## Ergänzung BM-Fachgruppe
 [[06 - BM-Fachgruppe und Videos]] enthält sechs geprüfte Videolinks, Hinweise zur Sprache, weitere Literatur und die Gastteilnahme als Lernoption.
+
+## Transkriptbasierte Arbeitsfassung
+[[07 - Podcast-Transkripte Nr4 und Nr20]] ordnet die vorliegenden 30-Minuten-Teiltranskripte zu. [[01 - Studienplan]] ist entsprechend neu gefasst. Dieser Plan hat Vorrang vor älteren Medienempfehlungen.
+
+## Zweite Transkriptlieferung
+[[08 - Podcast-Auswertung Nr20 Nr21 Nr170]] ergänzt die längere Fassung #20 und die Folgen #21 und #170. [[01 - Studienplan]] enthält die aktuelle Gesamtfassung. Alte Angaben in [[07 - Podcast-Transkripte Nr4 und Nr20]] sind historischer Stand; nur #4 bleibt ein Teiltranskript.
