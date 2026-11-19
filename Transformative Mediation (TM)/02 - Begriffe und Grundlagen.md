@@ -5,8 +5,14 @@ Zurück: [[00 - Transformative Mediation]]
 > Eigene Arbeitszusammenfassung als Einstieg. Keine Wiedergabe des nicht vorliegenden Buchs. Bei strittigen Einzelheiten Originalquellen und fachkundige Rückmeldung heranziehen.
 
 ## Konflikt als Krise der Interaktion
+
+**Allgemeine Begriffsbestimmung:** Ein sozialer Konflikt liegt vor, wenn in einer Interaktion mindestens eine Seite Unvereinbarkeit erlebt und sich durch die andere Seite bei der Verwirklichung eigener Anliegen beeinträchtigt sieht.
+
+**Transformative Perspektive:** TM versteht das Konfliktgeschehen als Krise des Miteinanders, in der eigene Klarheit und Selbstbestimmung sowie die Offenheit für das Gegenüber unter Druck geraten.
+
 TM betrachtet, wie Konflikte die eigene Klarheit und Handlungsfähigkeit sowie die Offenheit für das Gegenüber beeinträchtigen können. Der Blick richtet sich auf das konkrete Gespräch und dessen Veränderungen. Äußerungen sind beobachtbar; innere Zustände bleiben zunächst Interpretationen.
 
+Dabei meint **Empowerment** hier wachsende Klarheit und Handlungsfähigkeit: Eine Person versteht besser, was sie beschäftigt, was sie möchte und welche Entscheidungen sie treffen kann. **Recognition** bezeichnet die freiwillige Öffnung für die Situation und Sichtweise des anderen. Dazu muss sie dessen Position weder billigen noch eigene Anliegen zurückstellen.
 ## Empowerment
 Gemeint ist die Unterstützung eigener Klarheit, Selbstbestimmung und Entscheidungsfähigkeit. Die vermittelnde Person übernimmt nicht die Entscheidung darüber, was die Beteiligten brauchen oder welcher Weg für sie richtig ist.
 
