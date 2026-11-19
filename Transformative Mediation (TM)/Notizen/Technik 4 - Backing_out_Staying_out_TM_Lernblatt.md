@@ -384,7 +384,7 @@ Die Beispiele, Übungen und Entscheidungshilfen sind eine didaktische Ausarbeitu
 
 ## Verknüpfungen
 
-- [[Spiegeln_in_der_TM_Praktische_Anleitung|Spiegeln in der TM: praktische Anleitung]]
+- [[Technik 1 - Spiegeln_in_der_TM_Praktische_Anleitung|Spiegeln in der TM: praktische Anleitung]]
 - [[Empowerment_und_Recognition_Praxis|Empowerment und Recognition]]
 - [[Paraphrasieren_und_Spiegeln|Paraphrasieren und Spiegeln]]
 

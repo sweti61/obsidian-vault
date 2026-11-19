@@ -424,8 +424,8 @@ Vergleichstabellen, Beispiele, Formulierungen und Übungen sind eine didaktische
 
 ## Verknüpfungen
 
-- [[Spiegeln_in_der_TM_Praktische_Anleitung|Spiegeln in der TM]]
-- [[Backing_out_Staying_out_TM_Lernblatt|Sich zurücknehmen und heraushalten]]
+- [[Technik 1 - Spiegeln_in_der_TM_Praktische_Anleitung|Spiegeln in der TM]]
+- [[Technik 4 - Backing_out_Staying_out_TM_Lernblatt|Sich zurücknehmen und heraushalten]]
 - [[Empowerment_und_Recognition_Praxis|Empowerment und Recognition]]
 - [[Paraphrasieren_und_Spiegeln|Paraphrasieren und Spiegeln]]
 
