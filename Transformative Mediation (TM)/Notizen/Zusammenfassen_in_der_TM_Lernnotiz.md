@@ -9,6 +9,9 @@ aliases:
   - Summarizing in der TM
 ---
 
+> **Einordnung, 20.11.2026:** Grundlagennotiz zur Bush/Folger-/Hartwig-Orientierung. Hösls empathisch leitende Variante wird unten gesondert ergänzt. Die Anleitung beschreibt nicht unterschiedslos jede Form transformativer Mediation.
+
+
 # Zusammenfassen in der transformativen Mediation
 ## Lernnotiz mit Vergleich, Praxisbeispielen und Übungen
 
@@ -424,8 +427,21 @@ Vergleichstabellen, Beispiele, Formulierungen und Übungen sind eine didaktische
 
 ## Verknüpfungen
 
-- [[Technik 1 - Spiegeln_in_der_TM_Praktische_Anleitung|Spiegeln in der TM]]
-- [[Technik 4 - Backing_out_Staying_out_TM_Lernblatt|Sich zurücknehmen und heraushalten]]
+- [[Spiegeln_in_der_TM_Praktische_Anleitung|Spiegeln in der TM]]
+- [[Backing_out_Staying_out_TM_Lernblatt|Sich zurücknehmen und heraushalten]]
 - [[Empowerment_und_Recognition_Praxis|Empowerment und Recognition]]
 - [[Paraphrasieren_und_Spiegeln|Paraphrasieren und Spiegeln]]
 
+
+
+## Hösl: Zusammenfassung und Themensammlung können verbunden werden
+
+Die bisherige Gegenüberstellung beschreibt Bush/Folger beziehungsweise Hartwig und Weldon. Hösls verfahrensstrukturierter Ansatz befürwortet ausdrücklich Visualisierung und aktive Leitung (H11, C.II–III, besonders Grafik PDF-S. 5; H16, IV.2–3).
+
+Eine aussagengetreue Zusammenfassung kann hier in eine sichtbare Themensammlung und ein angebotenes weiteres Vorgehen übergehen. Das ist keine bloße Wiederholung: Der strukturierende Schritt und die Beteiligungsmöglichkeiten der KP werden kenntlich gemacht.
+
+Differenzen werden auch dabei nicht sprachlich beseitigt. Hösls Fokus auf Gefühle und Bedürfnisse berechtigt nicht zur Setzung einer tieferen gemeinsamen Wahrheit.
+
+Praktische Frage: „Ich kann diese Punkte sichtbar festhalten. Welche Formulierungen möchten Sie ändern, und womit möchten Sie beginnen?“ Die Frage ist eine eigene Umsetzung, kein wörtlicher Hösl-Standard.
+
+Vertiefung: [[10 - Hoesl - Artikelanalyse und Vergleich]] und [[11 - Hoesl - Praxis und Uebungen]]. Die dort genannten Seiten beziehen sich auf die bereitgestellten Autorenfassungen.

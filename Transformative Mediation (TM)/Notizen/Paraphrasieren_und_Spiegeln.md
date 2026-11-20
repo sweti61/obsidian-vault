@@ -9,6 +9,9 @@ aliases:
   - Paraphrasieren versus Spiegeln
 ---
 
+> **Einordnung, 20.11.2026:** Grundlagennotiz zur Bush/Folger-/Hartwig-Orientierung. Hösls empathisch leitende Variante wird unten gesondert ergänzt. Die Anleitung beschreibt nicht unterschiedslos jede Form transformativer Mediation.
+
+
 # Paraphrasieren und Spiegeln in der Mediation
 
 ## Ausgangspunkt und Begriffsgebrauch
@@ -266,3 +269,14 @@ Die Vergleichstabellen, Beispiele und Anwendungshinweise sind eine didaktische A
 
 [[Empowerment_und_Recognition_Praxis|Empowerment und Recognition: Shifts wahrnehmen und unterstützen]]
 
+
+
+## Hösl: Begriffe und zusätzliche Fragen sauber trennen
+
+Die Arbeitsunterscheidung „Paraphrasieren in eigenen Worten“ und „wortnahes Spiegeln“ bleibt als Übungshilfe bestehen. Sie ist keine verbindliche Trennlinie aller TM-Varianten.
+
+H11, C.I (PDF-S. 4), bezeichnet Reflection als empathisches Paraphrasieren. H16, IV.1 (S. 12), betont das spiegelnde Eingehen auf die Sprecherpartei. Hösls eigene Erweiterung umfasst zusätzlich gezielte Fragen; diese sind nicht bloß eine andere Form des Spiegelns.
+
+Prüfung: Gebe ich eine Aussage zurück, formuliere ich sinngemäß um, oder erkunde ich einen neuen Aspekt? Diese Schritte ausdrücklich unterscheiden und die KP korrigieren lassen.
+
+Vertiefung: [[10 - Hoesl - Artikelanalyse und Vergleich]] und [[11 - Hoesl - Praxis und Uebungen]]. Die dort genannten Seiten beziehen sich auf die bereitgestellten Autorenfassungen.

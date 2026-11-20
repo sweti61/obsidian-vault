@@ -1,63 +1,56 @@
+---
+updated: 2026-11-20
+tags: [mediation/transformativ, mediation/hoesl, uebungen]
+---
+
 # Übungen und Rollenspiele
 
-Zurück: [[00 - Transformative Mediation]]
-Ergebnisse: [[04 - Lernjournal]]
+Alle Fälle sind erfunden. Bush/Folger und Hösl zunächst getrennt üben.
 
-Alle Fälle sind erfunden. Die Vorschläge sind Lernübungen, kein validiertes TM-Training.
+## 1. Beobachtung und Deutung
 
-## Übung 1 – Beobachtung und Deutung trennen
-A: „Ich weiß gar nicht, warum ich gekommen bin. Ihr habt euch doch längst entschieden.“
-B: „Wenn du immer gleich abblockst, kommen wir nie weiter.“
+A: „Ihr habt euch doch längst entschieden.“
+B: „Wenn du gleich abblockst, kommen wir nie weiter.“
 A: „Ich will nur nicht wieder übergangen werden.“
 
-Zuerst selbst bearbeiten:
-1. Welche Aussagen sind unmittelbar beobachtbar?
-2. Was vermute ich über die Beteiligten?
-3. Wo könnte eine Möglichkeit zur eigenen Klärung liegen?
-4. Was wäre eine vorschnelle Interpretation?
+Notiere Beobachtung, eigene Interpretation, mögliche Unterstützung und eine vorschnelle Bedürfniszuschreibung.
 
-**Chatprompt:** „Analysiere mit mir diesen erfundenen Dialog nach TM-Gesichtspunkten. Lass mich zuerst Beobachtung, Deutung und mögliche Ansatzpunkte für Empowerment oder Recognition unterscheiden. Gib erst danach begründete Rückmeldung. Behaupte keine sicheren inneren Zustände.“
+## 2. Vier Techniken nach Hartwigs Darstellung
 
-## Übung 2 – Spiegeln ohne Ergänzen
-Bearbeite die Aussagen einzeln:
 - „Ich möchte Kontakt, aber so halte ich das nicht mehr aus.“
-- „Vielleicht habe ich sie tatsächlich nicht gefragt.“
+- „Vielleicht habe ich sie nicht gefragt.“
 - „Ich weiß gerade selbst nicht, was ich will.“
 - „Wenn ich jetzt nachgebe, war alles umsonst.“
-- „Ich habe verstanden, dass du Angst hattest. Trotzdem war es für mich verletzend.“
-- „Können wir endlich über etwas anderes reden?“
+- „Ich verstehe deine Angst. Trotzdem war es verletzend.“
+- Beide schweigen.
 
-Formuliere eine mögliche Spiegelung oder Zusammenfassung. Notiere alternativ, warum du zunächst nicht intervenieren würdest. Prüfe: Welche Wörter oder Bedeutungen stammen von mir?
+Formuliere Spiegelung, Check-in oder begründetes Heraushalten. Eine kurze Zusammenfassung zweier Sichtweisen ergänzen. „Hast du das so gesagt?“ kann bei enger Wiedergabe passen; keine routinemäßige Bestätigung verlangen.
 
-**Chatprompt:** „Gib mir die Aussagen nacheinander. Ich formuliere eine Reaktion. Prüfe danach auf Bedeutungszusätze, versteckte Bewertungen und Lenkung. Erhalte Ambivalenzen und korrigiere meine Formulierungen nicht zu einer vermeintlich einzig richtigen Antwort.“
+## 3. Hösl: Struktur und Vertiefung anbieten
 
-## Übung 3 – Prozessentscheidungen
-Drei kurze Situationen:
-1. Beide Beteiligten schweigen.
-2. Eine Person möchte über ein altes Ereignis sprechen, die andere über die nächste Woche.
-3. Beide sagen: „Sie sind doch der Experte. Sagen Sie uns, was wir tun sollen.“
+Dieselbe Szene in einer zweiten Runde bearbeiten. Ein nachvollziehbares Strukturangebot und eine Frage zu eigenem Erleben formulieren. Eine KP lehnt die Vertiefung ab.
 
-Jeweils:
-- Mein erster Impuls.
-- Eine mögliche Intervention.
-- Welche Entscheidung bleibt dadurch bei den Beteiligten?
-- Welches Risiko hat meine Intervention?
-- Wie könnte ich auf eine Korrektur durch die Beteiligten reagieren?
+Auswertung: Was war angeboten, was unterstellt? Welche Antwort hätte ich ungern gehört? Wie bin ich mit Ablehnung umgegangen?
 
-**Chatprompt:** „Simuliere zwei Familienmitglieder mit unterschiedlichen Gesprächswünschen. Ich mediiere schriftlich. Baue einen Themenwechsel oder die Bitte um eine Lösung ein. Gib nach acht bis zehn Wechseln Feedback anhand konkreter Stellen, nicht nach jeder Nachricht.“
+Ausführliche Varianten: [[11 - Hoesl - Praxis und Uebungen]].
 
-## Übung 4 – Zusammenhängendes Rollenspiel
-Erfundener Rahmen: Ein Elternteil und ein erwachsenes Kind möchten über ihren Kontakt sprechen. Der Elternteil wünscht häufigere Besuche. Das Kind möchte seine Grenzen deutlicher machen. Beide sind unsicher, was das Gespräch bringen kann.
+## 4. Visualisierung
 
-**Chatprompt:** „Führe ein schriftliches TM-Rollenspiel auf Deutsch mit mir durch. Spiele beide Beteiligten mit eigenständigen Anliegen und ohne automatische Versöhnung. Ich übernehme die Vermittlung und beginne mit einer kurzen Rollenklärung. Nach etwa 15 Gesprächswechseln stoppen wir. Wähle dann mit mir drei Stellen für die Reflexion aus. Kennzeichne Grenzen deiner fachlichen Einschätzung.“
+Je zwei Aussagen beider KP sichtbar notieren. Wortlaut und Ordnung zur Änderung stellen. Prüfen, ob ich einen Widerspruch unter einer gemeinsamen Überschrift verdeckt habe.
+
+## 5. Zusammenhängendes Rollenspiel
+
+Elternteil wünscht häufigere Besuche; erwachsenes Kind möchte Grenzen klären. Beide sind unsicher über das Ergebnis.
+
+Prompt:
+„Simuliere beide Beteiligten in einem erfundenen Familiengespräch. Wir üben ausdrücklich [Bush/Folger-orientiert oder an Hösl angelehnt]. Keine automatische Einigung. Ich erläutere zuerst das Vorgehen. Baue eine Bitte um Struktur und eine Ablehnung einer Vertiefung ein. Nach etwa 15 Wechseln reflektieren wir drei Stellen, nicht jede Nachricht einzeln.“
 
 ## Feedbackraster
-| Stelle | Beobachtung | Meine Absicht | Meine Intervention | Simulierte Reaktion | Alternative / offene Frage |
-|---|---|---|---|---|---|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
 
-## Vergleichsübung
-Dieselbe Äußerung in TM und Klärungshilfe betrachten. Nicht nur die Formulierung vergleichen, sondern auch Absicht, Prozessführung und Deutungsanteil. Ein Satz allein reicht nicht aus, einen Mediationsansatz sicher zu bestimmen.
+| Stelle | Beobachtung | Ansatz | Meine Absicht | Angebotene Richtung | Reaktion | Alternative |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | | | | | | |
+| 2 | | | | | | |
+| 3 | | | | | | |
 
+Keine Klärungshilfe-Vergleichsaufgabe mehr. Kein Rollenspielerfolg beweist Wirksamkeit in realer Praxis.

@@ -1,54 +1,59 @@
-> Aktualisierung: Folge #4 liegt inzwischen mit regulärem Gesprächsabschluss vor. Ältere Hinweise auf einen fehlenden Rest sind überholt. Siehe [[09 - Vollständige Folge Nr4]] und [[01 - Studienplan]].
+---
+updated: 2026-11-20
+tags: [mediation/transformativ, lernplan]
+---
 
-# Transformative Mediation (TM)
+# Transformative Mediation – persönlicher Lernbereich
 
-Persönlicher Lernbereich von Sweti. Vier Wochen, zwei Stunden pro Woche, insgesamt acht Stunden. Beginn flexibel mit der ersten Lerneinheit.
+Vier Wochen à zwei Stunden. Der Zeitrahmen bleibt acht Stunden; Beginn flexibel. Bereits erarbeitete Grundlagen nicht erneut als Pflichtpensum wiederholen.
 
-## Einstieg
-1. [[01 - Studienplan]] öffnen und Woche 1 beginnen.
-2. Die Quellen in [[05 - Literatur und offene Fragen]] prüfen.
-3. Übungen in [[03 - Übungen und Rollenspiele]] bearbeiten.
-4. Beobachtungen in [[04 - Lernjournal]] festhalten.
+## Aktueller Lernweg
 
-[[02 - Begriffe und Grundlagen]] enthält vorläufige Arbeitsdefinitionen. Sie sind eine eigene fachliche Zusammenfassung, keine Buchzusammenfassung oder autorisierte TM-Lehrunterlage.
+1. [[01 - Studienplan]]: verbindlicher aktueller Plan.
+2. [[02 - Begriffe und Grundlagen]]: gemeinsame Begriffe und Unterschiede.
+3. [[10 - Hoesl - Artikelanalyse und Vergleich]]: Analyse der beiden Originalartikel.
+4. [[11 - Hoesl - Praxis und Uebungen]]: deutschsprachige Vertiefung und Transfer.
+5. [[03 - Übungen und Rollenspiele]] und [[04 - Lernjournal]].
+6. [[05 - Literatur und offene Fragen]]: Quellenstand.
 
-## Ausgangspunkt
-Nach ersten Literaturstudien erscheint mir TM nach Bush und Folger als passend zu meiner mediativen Haltung. Ich möchte eigene Klarheit und Entscheidungsfähigkeit sowie freiwilliges Verstehen des Gegenübers unterstützen und meine Steuerungsimpulse genauer kennenlernen.
+## Zwei bewusst unterschiedene Orientierungen
 
-Das deutschsprachige Buch von Bush und Folger liegt mir nicht vor. Dieser Lernbereich setzt seinen Besitz ausdrücklich nicht voraus. Er rekonstruiert das Buch nicht.
+**Grundlage:** Bush/Folger, erschlossen vor allem durch Christian Hartwigs Gespräch mit Sascha Weigel. Vier Techniken, Selbstbestimmung auch über den Gesprächsverlauf.
 
-## Ziel nach vier Wochen
-Ich kann die Grundideen erläutern, Beobachtungen von Interpretationen unterscheiden und meine Interventionen an konkreten simulierten Gesprächsstellen reflektieren. Ich weiß, zu welchen Fragen ich fachkundige Rückmeldung brauche.
+**Vertiefung:** Gattus Hösls verfahrensstrukturierte, empathisch leitende Variante. Mehr Prozessleitung, Fragen zu Gefühlen und Bedürfnissen, Visualisierung und Blockadebearbeitung.
 
-## Verbindungen zum RMCH
+Hösl ersetzt im Lernweg die bisherige Vergleichsarbeit zur Klärungshilfe. Er ersetzt nicht die Grundbegriffe und macht Unterschiede der Ansätze nicht gegenstandslos. Klärungshilfe-Material bleibt lediglich als dokumentierter früherer Quellenbestand erhalten; es ist kein Lernauftrag mehr.
+
+## Techniknotizen
+
+- [[Empowerment_und_Recognition_Praxis]]
+- [[Spiegeln_in_der_TM_Praktische_Anleitung]]
+- [[Paraphrasieren_und_Spiegeln]]
+- [[Zusammenfassen_in_der_TM_Lernnotiz]]
+- [[Backing_out_Staying_out_TM_Lernblatt]]
+
+Diese Notizen sind aus der bisherigen Bush/Folger-/Hartwig-Orientierung entstanden und enthalten jetzt einen gesonderten Hösl-Bezug.
+
+## Arbeitsregeln
+
+Beobachtung, eigene Deutung, Autorenposition und Befund unterscheiden. Strukturangebote und emotionale Vertiefung nicht als bloßes Spiegeln ausgeben. Aussagen der KP bleiben korrigierbar. Lernfortschritt nicht allein an Einigung oder emotionaler Tiefe messen.
+
+Die Beispiele sind erfunden. Schriftliche Übungen ersetzen keine beobachtete Praxis und Fachrückmeldung.
+
+## Bereits vorhandene Verbindungen
+
 - [TM-Vorgang](https://app.notion.com/p/41ae8fa3352981e1b4bcef69b6019052)
 - [Selbststudiumsaufgabe](https://app.notion.com/p/41ae8fa335298188ac81ff95572dc194)
 - [Notion-Studiennotiz](https://app.notion.com/p/41ae8fa3352981ba94b4e001112b5a44)
 
-Der aktuelle Obsidian-Plan berücksichtigt den fehlenden Buchzugang. Die Notion-Studiennotiz wurde um die BM-Fachgruppe und die Videomaterialien ergänzt.
-
-## Arbeitsregeln
-- Eigene Gedanken, belegte Aussagen und offene Fragen auseinanderhalten.
-- Nur erfundene Dialoge in Chatübungen verwenden; keine persönlichen oder gesundheitlichen Falldetails.
-- Simulationen zeigen mögliche Verläufe, keine nachgewiesenen Wirkungen realer Interventionen.
-- Lernfortschritt nicht daran messen, ob die simulierten Beteiligten sich einigen.
-- Schriftliche Übungen ersetzen keine TM-spezifische praktische Fortbildung oder Beobachtung durch eine Fachperson.
+Diese externen Seiten wurden bei dieser Aktualisierung nicht geändert.
 
 ## Fortschritt
-- [ ] Woche 1 abgeschlossen
-- [ ] Woche 2 abgeschlossen
-- [ ] Woche 3 abgeschlossen
-- [ ] Woche 4 abgeschlossen
-- [ ] Weiteren Lernschritt entschieden
 
-Stand: 16.11.2026.
+- [ ] Grundlagen bewusst dem jeweiligen Ansatz zuordnen
+- [ ] Vier TM-Techniken üben
+- [ ] Hösl-Artikel und Vergleich erarbeiten
+- [ ] Empathisch leitende Angebote und Ablehnung üben
+- [ ] Transfer und Fachrückmeldung planen
 
-
-## Ergänzung BM-Fachgruppe
-[[06 - BM-Fachgruppe und Videos]] enthält sechs geprüfte Videolinks, Hinweise zur Sprache, weitere Literatur und die Gastteilnahme als Lernoption.
-
-## Transkriptbasierte Arbeitsfassung
-[[07 - Podcast-Transkripte Nr4 und Nr20]] ordnet die vorliegenden 30-Minuten-Teiltranskripte zu. [[01 - Studienplan]] ist entsprechend neu gefasst. Dieser Plan hat Vorrang vor älteren Medienempfehlungen.
-
-## Zweite Transkriptlieferung
-[[08 - Podcast-Auswertung Nr20 Nr21 Nr170]] ergänzt die längere Fassung #20 und die Folgen #21 und #170. [[01 - Studienplan]] enthält die aktuelle Gesamtfassung. Alte Angaben in [[07 - Podcast-Transkripte Nr4 und Nr20]] sind historischer Stand; nur #4 bleibt ein Teiltranskript.
+Frühere Podcast-Auswertungen in 07 und 08 sind historisches Material. Ältere Wochenaufträge haben keine Geltung neben [[01 - Studienplan]].

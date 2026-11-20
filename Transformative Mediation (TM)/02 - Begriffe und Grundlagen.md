@@ -1,55 +1,52 @@
+---
+updated: 2026-11-20
+tags: [mediation/transformativ, grundlagen]
+---
+
 # Begriffe und Grundlagen
 
 Zurück: [[00 - Transformative Mediation]]
 
-> Eigene Arbeitszusammenfassung als Einstieg. Keine Wiedergabe des nicht vorliegenden Buchs. Bei strittigen Einzelheiten Originalquellen und fachkundige Rückmeldung heranziehen.
+## Gemeinsame Begriffe
 
-## Konflikt als Krise der Interaktion
+**Empowerment / Selbstbefähigung:** mehr eigene Klarheit, Handlungs- und Entscheidungsfähigkeit. Weder Gleichverteilung struktureller Macht noch bloße Durchsetzungsstärke.
 
-**Allgemeine Begriffsbestimmung:** Ein sozialer Konflikt liegt vor, wenn in einer Interaktion mindestens eine Seite Unvereinbarkeit erlebt und sich durch die andere Seite bei der Verwirklichung eigener Anliegen beeinträchtigt sieht.
+**Recognition / Anerkennung:** freiwillige Öffnung für Situation und Perspektive des anderen. Keine Pflicht zu Zustimmung, Schuldgeständnis, Nähe oder Versöhnung.
 
-**Transformative Perspektive:** TM versteht das Konfliktgeschehen als Krise des Miteinanders, in der eigene Klarheit und Selbstbestimmung sowie die Offenheit für das Gegenüber unter Druck geraten.
+Beides kann sich wechselseitig entwickeln. Es gibt keine feste Abfolge. Ein Nein kann Selbstbefähigung ausdrücken.
 
-TM betrachtet, wie Konflikte die eigene Klarheit und Handlungsfähigkeit sowie die Offenheit für das Gegenüber beeinträchtigen können. Der Blick richtet sich auf das konkrete Gespräch und dessen Veränderungen. Äußerungen sind beobachtbar; innere Zustände bleiben zunächst Interpretationen.
+## Zwei Varianten ausdrücklich unterscheiden
 
-Dabei meint **Empowerment** hier wachsende Klarheit und Handlungsfähigkeit: Eine Person versteht besser, was sie beschäftigt, was sie möchte und welche Entscheidungen sie treffen kann. **Recognition** bezeichnet die freiwillige Öffnung für die Situation und Sichtweise des anderen. Dazu muss sie dessen Position weder billigen noch eigene Anliegen zurückstellen.
-## Empowerment
-Gemeint ist die Unterstützung eigener Klarheit, Selbstbestimmung und Entscheidungsfähigkeit. Die vermittelnde Person übernimmt nicht die Entscheidung darüber, was die Beteiligten brauchen oder welcher Weg für sie richtig ist.
+**Bush/Folger, vor allem Hartwigs Darstellung:** Die vorhandene Fähigkeit zu selbstbestimmtem Handeln und Zugewandtheit kann im Konflikt beeinträchtigt sein. Unterstützung orientiert sich an der aktuellen Interaktion; keine feste Phasenfolge.
 
-Mögliche Beobachtung: Eine Person benennt ihre Unsicherheit präziser oder trifft eine bewusste Entscheidung. Das ist noch kein sicherer Nachweis einer dauerhaften Veränderung.
+**Hösl:** Persönliche Entwicklung und Lernen werden durch verfahrensstrukturierte, empathische Leitung unterstützt. Der Mediator fragt gezielter nach eigenem Erleben, Gefühlen und Bedürfnissen und kann Blockaden aktiv bearbeiten. Die Parteien bleiben entscheidungsbefugt für ihre Lösung.
 
-Frage: Unterstütze ich die Person bei ihrer Entscheidung oder bringe ich sie zu meiner bevorzugten Entscheidung?
+Nicht jede transformative Wirkung belegt die Anwendung desselben TM-Modells.
 
-## Recognition
-Gemeint ist die freiwillige Öffnung für die Perspektive und Situation eines anderen Menschen. Zustimmung, Entschuldigung, Nähe und Versöhnung sind dafür keine zwingenden Voraussetzungen.
+## Selbstbestimmung und Prozessleitung
 
-Frage: Greife ich eine vom Beteiligten selbst ausgehende Öffnung auf oder versuche ich, Empathie herzustellen?
+Inhaltliche Entscheidungsfreiheit und Einfluss auf das Verfahren sind zu unterscheiden. Hösl übernimmt mehr Prozessleitung als Hartwig. Diese Leitung wird in unserem Lernmaterial durch verständliche Angebote und reale Änderungs- und Ablehnungsmöglichkeiten überprüfbar gemacht.
 
-## Verhältnis beider Begriffe
-Beide Entwicklungen können sich im Gespräch unterstützen. Sie sind kein starr abzuarbeitender Zweischritt. Recognition wird nicht als Pflichtleistung eingefordert.
+## Gefühle, Bedürfnisse und Interessen
 
-## Rolle der Mediierenden
-Aufmerksam und unterstützend arbeiten, Entscheidungen möglichst bei den Beteiligten lassen und eigene Bewertungen nicht zum Maßstab machen. Zurückhaltung ist keine Gleichgültigkeit.
+Hösl beschreibt Interessen stärker als Nutzenorientierung und Bedürfnisse als Mangelerleben; Gefühle verweisen in seinem Rahmen auf Bedürfnisse. Das ist seine Begrifflichkeit, keine universelle Definition.
 
-Spiegeln und Zusammenfassen können Orientierung geben. Ob eine Intervention passt, hängt auch von Zeitpunkt, Gesprächskontext und Reaktion ab. Bloßes Wiederholen von Wörtern garantiert keine TM-gerechte Praxis.
+Die Person bestimmt, was sie fühlt und benötigt. „Wahre Gefühle“ in der Quelle sind keine Erlaubnis zur Fremddiagnose.
 
-## Prozessentscheidungen
-Wer entscheidet, welches Thema jetzt wichtig ist, wer sprechen möchte, ob eine Pause gebraucht wird oder wie es weitergeht? Auch das sind Gegenstände der Selbstbestimmung. Die professionelle Verantwortung für einen vertretbaren Rahmen bleibt bestehen.
+## Menschenbild
 
-## Verhältnis zur Klärungshilfe
-Gemeinsames Interesse: subjektives Erleben und zwischenmenschliches Verstehen. Unterschiede zeigen sich bei Prozessführung, gezielter emotionaler Vertiefung, Doppeln und eigenen Erklärungsangeboten.
-
-Klärungshilfe kann transformative Wirkungen haben, ohne TM nach Bush/Folger zu sein. Die Bezeichnung „transformativ“ allein belegt keine Gleichheit der Modelle.
+H16 unterscheidet Person-Sein, Sozialität, Naturalität und Transzendenz. Hösl setzt für Konfliktlösung keinen transzendenten Bezug voraus. Seine philosophischen und ethischen Annahmen sind als solche zu lernen und nicht automatisch als naturwissenschaftlich gesichert zu übernehmen.
 
 ## Ergebnisoffenheit
-Eine Vereinbarung ist möglich. Auch mehr Klarheit oder eine selbstbestimmte Entscheidung über den weiteren Umgang kann bedeutsam sein. Nicht jede schwierige oder ergebnislose Sitzung ist deshalb automatisch hilfreich.
 
-## Eigene Prüffragen
-- Was wurde tatsächlich gesagt?
-- Welche Bedeutung füge ich hinzu?
-- Welche Entscheidung nehme ich den Beteiligten gerade ab?
-- Welche Unsicherheit kann ich stehen lassen?
-- Welches Lernproblem möchte ich einer Fachperson vorlegen?
+Eine Regelung, ein veränderter Umgang oder die Beendigung einer Zusammenarbeit sind mögliche Ergebnisse. Hösls Orientierung auf Kooperation verpflichtet niemanden zu fortgesetzter Nähe.
 
-Quellen und Gegenprüfung: [[05 - Literatur und offene Fragen]].
+## Prüfgedanke
 
+> Frage ich danach, weil die KP diesen Gedanken verfolgen möchte – oder weil mir dieses Feld meiner Landkarte noch fehlt?
+
+Ergänzung im Hösl-Zweig:
+
+> Wenn ich bewusst leite: Welchen Zweck hat das Angebot, und wie kann die KP es korrigieren, ablehnen oder verändern?
+
+Quellenanalyse und Detailvergleich: [[10 - Hoesl - Artikelanalyse und Vergleich]].

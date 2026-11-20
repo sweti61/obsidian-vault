@@ -10,6 +10,9 @@ aliases:
   - Aktive Zurückhaltung
 ---
 
+> **Einordnung, 20.11.2026:** Grundlagennotiz zur Bush/Folger-/Hartwig-Orientierung. Hösls empathisch leitende Variante wird unten gesondert ergänzt. Die Anleitung beschreibt nicht unterschiedslos jede Form transformativer Mediation.
+
+
 # Backing out / staying out in der transformativen Mediation
 ## Lernblatt mit Praxisbeispielen und Übungen
 
@@ -32,7 +35,7 @@ Für dieses Lernblatt unterscheide ich praktisch:
 
 Diese deutsche Zuordnung ist eine Lernhilfe, keine verbindlich normierte Übersetzung.
 
-Neil Donnelly beschreibt die Technik sowohl für konstruktiven direkten Austausch als auch für Gesprächsstillstand: Stille muss nicht sofort durch einen Beitrag des Mediators gefüllt werden.[^2]
+John Peter Weldon beschreibt die Technik sowohl für konstruktiven direkten Austausch als auch für Gesprächsstillstand: Stille muss nicht sofort durch einen Beitrag des Mediators gefüllt werden.[^2]
 
 ### Sinn und Zweck
 
@@ -378,13 +381,24 @@ Beobachteten Verlauf und eigene Deutung getrennt halten. Aus einer einzelnen Seq
 
 [^1]: [INKOVEMA: Transformative Mediation – Im Gespräch mit Christian Hartwig, Podcast #4, 31.05.2020](https://inkovema.de/blog/transformative-mediation-im-gespraech-mit-christian-hartwig-inkovema-podcast-4/). Beschreibt „Herausnehmen, Zurücknehmen“ als Laufenlassen eines konstruktiven Austauschs.
 
-[^2]: [Neil Donnelly: Beitrag zur transformativen Mediation, Canadian Arbitration and Mediation Journal, 2012, Abschnitt „Staying/backing out“, S. 34](https://neildonnelly.ca/wp-content/uploads/2013/06/ADRIC_JOURNAL_2012_pg30_36.pdf). Beschreibt bewusstes Abwarten bei Stille sowie Heraushalten bei konstruktiver direkter Kommunikation.
+[^2]: [John Peter Weldon: Beitrag zur transformativen Mediation, Canadian Arbitration and Mediation Journal, 2012, Abschnitt „Staying/backing out“, gedruckte S. 34–35](https://neildonnelly.ca/wp-content/uploads/2013/06/ADRIC_JOURNAL_2012_pg30_36.pdf). Beschreibt bewusstes Abwarten bei Stille sowie Heraushalten bei konstruktiver direkter Kommunikation.
 
 Die Beispiele, Übungen und Entscheidungshilfen sind eine didaktische Ausarbeitung. Die Beschreibungen subjektiver Wahrnehmung sind mögliche Erfahrungen, keine Ergebnisse einer hier belegten vergleichenden Wirksamkeitsstudie. „Aktive Zurückhaltung“ wird als Erläuterung verwendet, nicht als nachgewiesener einheitlicher deutscher Technikname.
 
 ## Verknüpfungen
 
-- [[Technik 1 - Spiegeln_in_der_TM_Praktische_Anleitung|Spiegeln in der TM: praktische Anleitung]]
+- [[Spiegeln_in_der_TM_Praktische_Anleitung|Spiegeln in der TM: praktische Anleitung]]
 - [[Empowerment_und_Recognition_Praxis|Empowerment und Recognition]]
 - [[Paraphrasieren_und_Spiegeln|Paraphrasieren und Spiegeln]]
 
+
+
+## Hösl: aktiveres Unterstützen bei Blockaden
+
+Das bewusste Heraushalten bleibt sinnvoll, wenn die KP ihren Austausch selbst tragen. Hösl hält es jedoch bei Blockaden nicht für ausreichend, allein Fortsetzungsentscheidungen zurückzugeben. Er befürwortet gezielte Blockadelösungsfragen und empathische Verfahrenssteuerung (H16, IV.2, PDF-S. 13–14).
+
+Daraus folgt für die Hösl-Vertiefung: Abwarten und aktive Unterstützung bewusst vergleichen. Schweigen ist weder Pflicht noch automatisch Zeichen einer Blockade. Eine Bitte um Struktur aufnehmen; eine Ablehnung von Vertiefung ebenfalls.
+
+Eigener Prüfgedanke: „Brauchen die KP Raum – oder wünschen sie eine nachvollziehbare Unterstützung?“ Die Artikel liefern keinen vollständig ausgearbeiteten, hier übernommenen Fragenkatalog.
+
+Vertiefung: [[10 - Hoesl - Artikelanalyse und Vergleich]] und [[11 - Hoesl - Praxis und Uebungen]]. Die dort genannten Seiten beziehen sich auf die bereitgestellten Autorenfassungen.

@@ -7,6 +7,9 @@ tags:
 created: 2026-11-19
 ---
 
+> **Einordnung, 20.11.2026:** Grundlagennotiz zur Bush/Folger-/Hartwig-Orientierung. Hösls empathisch leitende Variante wird unten gesondert ergänzt. Die Anleitung beschreibt nicht unterschiedslos jede Form transformativer Mediation.
+
+
 # Empowerment und Recognition: Shifts wahrnehmen und unterstützen
 
 ## Begriffe
@@ -180,3 +183,14 @@ Belegt dort: Selbstbefähigung und Anerkennung als deutsche Entsprechungen; Aufm
 
 Die Ebenenordnung, Beispiele, Reflexionsfragen und bevorzugten Formulierungen dieser Notiz sind eine praktische Aufbereitung der gemeinsamen Diskussion, keine wörtliche Wiedergabe oder standardisierte Anleitung dieser Quelle.
 
+
+
+## Hösl: gezieltere Selbstklärung als zusätzliche Arbeitsweise
+
+Hösl befürwortet in H11, C.II–D (PDF-S. 4–7), und H16, IV.2–3 (S. 13–16), aktivere Fragen zu eigenem Erleben, Gefühlen, Bedürfnissen und Blockaden. Das erweitert das hier beschriebene Repertoire, ohne eine zusätzliche Phase „Empowerment herstellen“ einzuführen.
+
+Die KP behält die Deutung über ihr Erleben. Anerkennung bleibt freiwillig; das Erkennen eines eigenen Anteils darf nicht als Schuldgeständnis eingefordert werden. Die ältere Warnung vor einer Perspektivfrage ist eine Prüfung ihres Zeitpunkts und ihrer lenkenden Wirkung, kein allgemeines Verbot von Hösls fragender Praxis.
+
+Eigene Praxisregel: „Möchtest du genauer anschauen, was dir daran wichtig ist?“ ist ein erkennbares Vertiefungsangebot. „Du brauchst eigentlich Anerkennung“ ist eine Bedeutungssetzung.
+
+Vertiefung: [[10 - Hoesl - Artikelanalyse und Vergleich]] und [[11 - Hoesl - Praxis und Uebungen]]. Die dort genannten Seiten beziehen sich auf die bereitgestellten Autorenfassungen.

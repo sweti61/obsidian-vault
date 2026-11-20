@@ -20,13 +20,9 @@ Die BM-Liste nennt zwei passende kurze Texte:
 - Christian Hartwig (2016): Selbstbestimmte Krisenbewältigung – Die Konfliktintervention in der Transformativen Mediation. Spektrum der Mediation 65, S. 22–23.
 Die Auflistung belegt keinen freien Volltextzugang. Beschaffung über BM, vorhandene Hefte oder Bibliothek prüfen.
 
-## Studienplan: Materialeinsatz innerhalb der acht Stunden
-Diese Anpassung ersetzt die Buch-Leseaufträge; sie erhöht nicht das Zeitbudget.
-- Woche 1: 35 Minuten Fachgruppen-Grundlagentext und ausgewählten Podcastabschnitt bearbeiten, dann 20 Minuten eigene Begriffe, 40 Minuten Dialoganalyse, 25 Minuten Reflexion.
-- Woche 2: 25 Minuten Folger/Hartwig-Interview testen und einen verständlichen Ausschnitt bearbeiten; sonst deutschsprachigen Podcast nutzen. Danach wie geplant 20 Minuten eigene Interventionen, 50 Minuten Übung, 25 Minuten Reflexion.
-- Woche 3: 25 Minuten einen verständlichen Ausschnitt aus Video 2, 3 oder Bush Teil 1 bearbeiten; sonst Podcast zur Abgrenzung. Danach 20 Minuten Vergleich, 50 Minuten Rollenspiel, 25 Minuten Reflexion.
-- Woche 4: 15 Minuten Notizen einschließlich einer Frage aus Bush Teil 2 oder dem Dialoginterview sichten, sofern bereits zugänglich. Keine neue Pflichtsichtung. Danach 45 Minuten Rollenspiel, 35 Minuten Auswertung, 25 Minuten Lernbilanz.
-Die übrigen Videos sind ein Vorrat für spätere Vertiefung.
+## Aktueller Lernplan
+
+Ausschließlich [[01 - Studienplan]] verwenden. Die früheren Medien-Wochenaufträge wurden ersetzt. Dieser Katalog bleibt optional. Links und Termine wurden für die Hösl-Aktualisierung nicht erneut geprüft.
 
 ## Video-Arbeitsblatt
 Titel / URL:

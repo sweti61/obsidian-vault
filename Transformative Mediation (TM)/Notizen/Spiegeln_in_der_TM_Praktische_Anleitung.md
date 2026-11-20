@@ -9,6 +9,9 @@ aliases:
   - Spiegeln in der TM
 ---
 
+> **Einordnung, 20.11.2026:** Grundlagennotiz zur Bush/Folger-/Hartwig-Orientierung. Hösls empathisch leitende Variante wird unten gesondert ergänzt. Die Anleitung beschreibt nicht unterschiedslos jede Form transformativer Mediation.
+
+
 # Spiegeln in der transformativen Mediation
 ## Praktische Anleitung und Lernmaterial
 
@@ -414,3 +417,14 @@ Beispiele, Tabellen, Taschenkarte und Anwendungsentscheidungen sind eine didakti
 - [[Paraphrasieren_und_Spiegeln|Paraphrasieren und Spiegeln im Vergleich]]
 - [[Empowerment_und_Recognition_Praxis|Empowerment und Recognition: Shifts wahrnehmen und unterstützen]]
 
+
+
+## Hösl: Spiegeln bleibt Werkzeug, Fragen erweitern das Vorgehen
+
+Die vorhandene Anleitung trainiert aussagengetreues Spiegeln vor allem nach Hartwigs Darstellung. Hösl beschränkt seine empathisch leitende Variante nicht auf dieses Repertoire. Er ergänzt gezielte Fragen und Verfahrensführung (H11, C.II–D; H16, IV.2–3).
+
+Die Aussage „Ich füge keine Bedeutung hinzu“ bleibt für die Wiedergabe sinnvoll. Sie verbietet im Hösl-Zweig nicht jede neue Frage. Eine Frage nach eigenem Erleben ist aber als zusätzlicher Erkundungsschritt zu erkennen; sie darf nicht als bereits geäußertes Gefühl ausgegeben werden.
+
+Übungsbeispiel: Auf eine genaue Spiegelung kann nach einem angenommenen Angebot folgen: „Was ist dir in dieser Situation besonders wichtig?“ Ablehnung oder eine andere Richtung aufnehmen. Diese Formulierung ist didaktischer Transfer, kein Hösl-Zitat.
+
+Vertiefung: [[10 - Hoesl - Artikelanalyse und Vergleich]] und [[11 - Hoesl - Praxis und Uebungen]]. Die dort genannten Seiten beziehen sich auf die bereitgestellten Autorenfassungen.
