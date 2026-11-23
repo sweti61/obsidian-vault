@@ -29,3 +29,4 @@ Ein möglicher Auftrag lautet: „Ich möchte herausfinden, was ich weiter über
 Wo hast du das Anliegen der Tochter aufgenommen? Wo hast du ein Gespräch mit der Mutter bereits vorausgesetzt?
 
 [Zum Lernplan](00-lernplan-tcc.md) · [Fallbogen](fallbogen-tcc.md) · [Weiter zu M2](02-tcc-modul.md)
+[[SCM und TCC_Vorgespraech]]
